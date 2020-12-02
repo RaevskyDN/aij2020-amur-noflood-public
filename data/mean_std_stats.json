@@ -1,0 +1,6158 @@
+{
+    "demodule_365_sealevel_max_05001": {
+        "mean": 282.0134279753842,
+        "std": 98.6077220788778
+    },
+    "demodule_121_sealevel_max_05001": {
+        "mean": 0.31900365507423006,
+        "std": 59.1210860243134
+    },
+    "past_year_sealevel_max_05001": {
+        "mean": 272.77239686585483,
+        "std": 153.45888678700902
+    },
+    "shift_20_days_sealevel_max_05001": {
+        "mean": 273.21523647691873,
+        "std": 154.82919298495455
+    },
+    "shift_10_days_sealevel_max_05001": {
+        "mean": 273.32106107807044,
+        "std": 154.85957012667095
+    },
+    "past_year_sealevel_max_3D_05001": {
+        "mean": 272.7204600522363,
+        "std": 152.7338324802126
+    },
+    "shift_30_days_sealevel_max_05001": {
+        "mean": 273.1241385820825,
+        "std": 154.8083783082094
+    },
+    "demodule_365_sealevel_max_05002": {
+        "mean": 442.67085488327604,
+        "std": 126.1013936063462
+    },
+    "demodule_121_sealevel_max_05002": {
+        "mean": 0.44234774114734693,
+        "std": 61.19101251941615
+    },
+    "past_year_sealevel_max_05002": {
+        "mean": 433.6574152742377,
+        "std": 170.94561502041088
+    },
+    "shift_20_days_sealevel_max_05002": {
+        "mean": 434.3317757009346,
+        "std": 172.62603411711578
+    },
+    "shift_10_days_sealevel_max_05002": {
+        "mean": 434.36226753516473,
+        "std": 172.62916537286893
+    },
+    "past_year_sealevel_max_3D_05002": {
+        "mean": 433.65757261084207,
+        "std": 170.36392616453517
+    },
+    "shift_30_days_sealevel_max_05002": {
+        "mean": 434.309968847352,
+        "std": 172.62555262878024
+    },
+    "demodule_365_sealevel_max_05004": {
+        "mean": 275.12094818401596,
+        "std": 140.8630968144672
+    },
+    "demodule_121_sealevel_max_05004": {
+        "mean": 0.4733760701755369,
+        "std": 59.738694957949946
+    },
+    "past_year_sealevel_max_05004": {
+        "mean": 261.64165014632306,
+        "std": 182.98850969622362
+    },
+    "shift_20_days_sealevel_max_05004": {
+        "mean": 266.46757292551683,
+        "std": 182.77418893680832
+    },
+    "shift_10_days_sealevel_max_05004": {
+        "mean": 266.65373359765886,
+        "std": 182.7174498752015
+    },
+    "past_year_sealevel_max_3D_05004": {
+        "mean": 261.74513043204723,
+        "std": 182.4800365960697
+    },
+    "shift_30_days_sealevel_max_05004": {
+        "mean": 266.36222033418295,
+        "std": 182.81767418275712
+    },
+    "demodule_365_sealevel_max_05009": {
+        "mean": 551.6726305509796,
+        "std": 133.03977426973228
+    },
+    "demodule_121_sealevel_max_05009": {
+        "mean": 0.29993650573932895,
+        "std": 58.424042485241046
+    },
+    "past_year_sealevel_max_05009": {
+        "mean": 534.8829887661664,
+        "std": 168.15066626257996
+    },
+    "shift_20_days_sealevel_max_05009": {
+        "mean": 541.390588124233,
+        "std": 167.7147186708248
+    },
+    "shift_10_days_sealevel_max_05009": {
+        "mean": 541.6816293778911,
+        "std": 167.6741305962423
+    },
+    "past_year_sealevel_max_3D_05009": {
+        "mean": 534.8656974731759,
+        "std": 167.94883630081475
+    },
+    "shift_30_days_sealevel_max_05009": {
+        "mean": 541.1078542433683,
+        "std": 167.76061215696734
+    },
+    "demodule_365_sealevel_max_05012": {
+        "mean": 47.92306047677922,
+        "std": 132.7874296722898
+    },
+    "demodule_121_sealevel_max_05012": {
+        "mean": 0.6051856110582231,
+        "std": 60.13218901673836
+    },
+    "past_year_sealevel_max_05012": {
+        "mean": 37.37038610403096,
+        "std": 168.24617345144412
+    },
+    "shift_20_days_sealevel_max_05012": {
+        "mean": 40.64514301897479,
+        "std": 169.4769931239052
+    },
+    "shift_10_days_sealevel_max_05012": {
+        "mean": 40.78608515057113,
+        "std": 169.4638151241113
+    },
+    "past_year_sealevel_max_3D_05012": {
+        "mean": 37.335661915100985,
+        "std": 168.02975775454937
+    },
+    "shift_30_days_sealevel_max_05012": {
+        "mean": 40.52043802511092,
+        "std": 169.49501253288875
+    },
+    "demodule_365_sealevel_max_05013": {
+        "mean": 696.6192013343336,
+        "std": 127.79972430700103
+    },
+    "demodule_121_sealevel_max_05013": {
+        "mean": 0.5709683428147958,
+        "std": 58.03819959069846
+    },
+    "past_year_sealevel_max_05013": {
+        "mean": 686.3182762201454,
+        "std": 163.23305567397858
+    },
+    "shift_20_days_sealevel_max_05013": {
+        "mean": 688.9431700179364,
+        "std": 164.4787179493622
+    },
+    "shift_10_days_sealevel_max_05013": {
+        "mean": 689.0675918059096,
+        "std": 164.46744241705258
+    },
+    "past_year_sealevel_max_3D_05013": {
+        "mean": 686.283725101481,
+        "std": 163.01162506297453
+    },
+    "shift_30_days_sealevel_max_05013": {
+        "mean": 688.8328141225337,
+        "std": 164.49374090293972
+    },
+    "demodule_365_sealevel_max_05016": {
+        "mean": 106.90347629815189,
+        "std": 118.68245984469615
+    },
+    "demodule_121_sealevel_max_05016": {
+        "mean": 0.6601248409763609,
+        "std": 58.112386492325705
+    },
+    "past_year_sealevel_max_05016": {
+        "mean": 99.84961767204757,
+        "std": 159.41746307753655
+    },
+    "shift_20_days_sealevel_max_05016": {
+        "mean": 100.7331256490135,
+        "std": 161.20420101436545
+    },
+    "shift_10_days_sealevel_max_05016": {
+        "mean": 100.81402813178514,
+        "std": 161.20496561799786
+    },
+    "past_year_sealevel_max_3D_05016": {
+        "mean": 99.79786966235524,
+        "std": 159.18451878188142
+    },
+    "shift_30_days_sealevel_max_05016": {
+        "mean": 100.65713206834702,
+        "std": 161.20449506160088
+    },
+    "demodule_365_sealevel_max_05019": {
+        "mean": 46.77369266738917,
+        "std": 98.3508296021733
+    },
+    "demodule_121_sealevel_max_05019": {
+        "mean": 0.4661473259166001,
+        "std": 46.54597679280541
+    },
+    "past_year_sealevel_max_05019": {
+        "mean": 38.20074577551213,
+        "std": 131.73825897888065
+    },
+    "shift_20_days_sealevel_max_05019": {
+        "mean": 40.53289908430095,
+        "std": 132.36869198525727
+    },
+    "shift_10_days_sealevel_max_05019": {
+        "mean": 40.612951949400546,
+        "std": 132.34442039684475
+    },
+    "past_year_sealevel_max_3D_05019": {
+        "mean": 38.18343874885935,
+        "std": 131.54926099275178
+    },
+    "shift_30_days_sealevel_max_05019": {
+        "mean": 40.45161899367507,
+        "std": 132.3923333634364
+    },
+    "demodule_365_sealevel_max_05020": {
+        "mean": 24.19768710270498,
+        "std": 133.91349462615614
+    },
+    "demodule_121_sealevel_max_05020": {
+        "mean": 0.7966315109638701,
+        "std": 61.78541590101596
+    },
+    "past_year_sealevel_max_05020": {
+        "mean": 11.331020485226093,
+        "std": 174.51234277830895
+    },
+    "shift_20_days_sealevel_max_05020": {
+        "mean": 14.89578023222883,
+        "std": 175.25761598854405
+    },
+    "shift_10_days_sealevel_max_05020": {
+        "mean": 15.02577173605211,
+        "std": 175.21676636573432
+    },
+    "past_year_sealevel_max_3D_05020": {
+        "mean": 11.296422165581037,
+        "std": 174.3676118253728
+    },
+    "shift_30_days_sealevel_max_05020": {
+        "mean": 14.766071934296233,
+        "std": 175.29840719194968
+    },
+    "demodule_365_sealevel_max_05024": {
+        "mean": 17.76843807796365,
+        "std": 140.99393077884258
+    },
+    "demodule_121_sealevel_max_05024": {
+        "mean": 0.9732469205407762,
+        "std": 71.95657011801175
+    },
+    "past_year_sealevel_max_05024": {
+        "mean": 2.872982158028887,
+        "std": 187.19022669800648
+    },
+    "shift_20_days_sealevel_max_05024": {
+        "mean": 6.447559709241952,
+        "std": 188.03941720930865
+    },
+    "shift_10_days_sealevel_max_05024": {
+        "mean": 6.59756442934013,
+        "std": 188.00345787128387
+    },
+    "past_year_sealevel_max_3D_05024": {
+        "mean": 2.83854117498978,
+        "std": 187.02926609583275
+    },
+    "shift_30_days_sealevel_max_05024": {
+        "mean": 6.303124704993864,
+        "std": 188.07614595016963
+    },
+    "demodule_365_sealevel_max_05026": {
+        "mean": 51.76546170764435,
+        "std": 189.3184427380355
+    },
+    "demodule_121_sealevel_max_05026": {
+        "mean": 1.0870029586837753,
+        "std": 97.79232554620974
+    },
+    "past_year_sealevel_max_05026": {
+        "mean": 32.451052581893705,
+        "std": 254.27424584703974
+    },
+    "shift_20_days_sealevel_max_05026": {
+        "mean": 37.40257717360521,
+        "std": 255.4537372026232
+    },
+    "shift_10_days_sealevel_max_05026": {
+        "mean": 37.56372132540357,
+        "std": 255.39940771929747
+    },
+    "past_year_sealevel_max_3D_05026": {
+        "mean": 32.417115075993465,
+        "std": 253.9187335374555
+    },
+    "shift_30_days_sealevel_max_05026": {
+        "mean": 37.22972717832531,
+        "std": 255.506971801256
+    },
+    "demodule_365_sealevel_max_05029": {
+        "mean": 104.5147258315184,
+        "std": 141.43090270081976
+    },
+    "demodule_121_sealevel_max_05029": {
+        "mean": 1.1337830334481953,
+        "std": 71.10785272714868
+    },
+    "past_year_sealevel_max_05029": {
+        "mean": 88.2909940526763,
+        "std": 193.1543259337421
+    },
+    "shift_20_days_sealevel_max_05029": {
+        "mean": 93.17001793637307,
+        "std": 194.81220543497963
+    },
+    "shift_10_days_sealevel_max_05029": {
+        "mean": 92.97979797979798,
+        "std": 194.2026171052645
+    },
+    "past_year_sealevel_max_3D_05029": {
+        "mean": 88.27411183485947,
+        "std": 192.86394905454375
+    },
+    "shift_30_days_sealevel_max_05029": {
+        "mean": 93.23090720286982,
+        "std": 195.37015237875548
+    },
+    "demodule_365_sealevel_max_05031": {
+        "mean": -44.60180336638612,
+        "std": 164.64984168895722
+    },
+    "demodule_121_sealevel_max_05031": {
+        "mean": 0.9383665441680652,
+        "std": 75.5264753891462
+    },
+    "past_year_sealevel_max_05031": {
+        "mean": -58.31643538185594,
+        "std": 207.59714579966007
+    },
+    "shift_20_days_sealevel_max_05031": {
+        "mean": -54.50212404418012,
+        "std": 208.6178707431626
+    },
+    "shift_10_days_sealevel_max_05031": {
+        "mean": -54.46747852355329,
+        "std": 208.5999408746938
+    },
+    "past_year_sealevel_max_3D_05031": {
+        "mean": -58.282057333459214,
+        "std": 207.42081846792667
+    },
+    "shift_30_days_sealevel_max_05031": {
+        "mean": -54.5807608798263,
+        "std": 208.64871929297976
+    },
+    "demodule_365_sealevel_max_05033": {
+        "mean": 18.50815315117439,
+        "std": 117.6513298312039
+    },
+    "demodule_121_sealevel_max_05033": {
+        "mean": 0.573445534581843,
+        "std": 56.05332813464481
+    },
+    "past_year_sealevel_max_05033": {
+        "mean": 8.026338147833474,
+        "std": 152.04612008685135
+    },
+    "shift_20_days_sealevel_max_05033": {
+        "mean": 11.383177570093459,
+        "std": 151.76374465348695
+    },
+    "shift_10_days_sealevel_max_05033": {
+        "mean": 11.399037099971679,
+        "std": 151.75789688667217
+    },
+    "past_year_sealevel_max_3D_05033": {
+        "mean": 7.661600427955487,
+        "std": 151.8329414067432
+    },
+    "shift_30_days_sealevel_max_05033": {
+        "mean": 11.27140564523742,
+        "std": 151.84889462917576
+    },
+    "demodule_365_sealevel_max_05044": {
+        "mean": 182.6717884097961,
+        "std": 33.27908614853699
+    },
+    "demodule_121_sealevel_max_05044": {
+        "mean": -0.25982676747628436,
+        "std": 20.468785466343828
+    },
+    "past_year_sealevel_max_05044": {
+        "mean": 176.81884263192674,
+        "std": 57.153312411614074
+    },
+    "shift_20_days_sealevel_max_05044": {
+        "mean": 178.19758330973283,
+        "std": 59.112212995935224
+    },
+    "shift_10_days_sealevel_max_05044": {
+        "mean": 178.2099499669593,
+        "std": 59.115742275857976
+    },
+    "past_year_sealevel_max_3D_05044": {
+        "mean": 176.81876396362375,
+        "std": 56.96582178186689
+    },
+    "shift_30_days_sealevel_max_05044": {
+        "mean": 178.17794770131218,
+        "std": 59.105469546113014
+    },
+    "demodule_365_sealevel_max_05336": {
+        "mean": 751.4176137326263,
+        "std": 19.930682887379263
+    },
+    "demodule_121_sealevel_max_05336": {
+        "mean": 0.1446429891486204,
+        "std": 20.250238987420854
+    },
+    "past_year_sealevel_max_05336": {
+        "mean": 753.8167657887284,
+        "std": 53.064687055619046
+    },
+    "shift_20_days_sealevel_max_05336": {
+        "mean": 754.1032757481356,
+        "std": 53.93103341152399
+    },
+    "shift_10_days_sealevel_max_05336": {
+        "mean": 754.1274426508071,
+        "std": 53.92965300138122
+    },
+    "past_year_sealevel_max_3D_05336": {
+        "mean": 753.8685452657413,
+        "std": 51.98945494999983
+    },
+    "shift_30_days_sealevel_max_05336": {
+        "mean": 754.0805248749174,
+        "std": 53.93254352927554
+    },
+    "demodule_365_sealevel_max_05352": {
+        "mean": 227.59063233055394,
+        "std": 15.670012705373283
+    },
+    "demodule_121_sealevel_max_05352": {
+        "mean": 0.07628310681055868,
+        "std": 11.275928488756566
+    },
+    "past_year_sealevel_max_05352": {
+        "mean": 226.63480600396488,
+        "std": 30.707621758853225
+    },
+    "shift_20_days_sealevel_max_05352": {
+        "mean": 226.85565939771547,
+        "std": 30.980862647438535
+    },
+    "shift_10_days_sealevel_max_05352": {
+        "mean": 226.8493344661569,
+        "std": 30.983366337385792
+    },
+    "past_year_sealevel_max_3D_05352": {
+        "mean": 226.63482173762543,
+        "std": 30.277466352501463
+    },
+    "shift_30_days_sealevel_max_05352": {
+        "mean": 226.8603794958935,
+        "std": 30.97913198142717
+    },
+    "demodule_365_sealevel_max_05354": {
+        "mean": 179.1987076668932,
+        "std": 9.476880329631197
+    },
+    "demodule_121_sealevel_max_05354": {
+        "mean": 0.07906462236743078,
+        "std": 9.272577767759767
+    },
+    "past_year_sealevel_max_05354": {
+        "mean": 178.32932124988199,
+        "std": 25.62724718025971
+    },
+    "shift_20_days_sealevel_max_05354": {
+        "mean": 178.70480505994524,
+        "std": 25.982542516422026
+    },
+    "shift_10_days_sealevel_max_05354": {
+        "mean": 178.7111299915038,
+        "std": 25.980271640572443
+    },
+    "past_year_sealevel_max_3D_05354": {
+        "mean": 178.3291796469364,
+        "std": 25.281530549318457
+    },
+    "shift_30_days_sealevel_max_05354": {
+        "mean": 178.69904654016804,
+        "std": 25.98467288827142
+    },
+    "demodule_365_sealevel_max_05454": {
+        "mean": 255.51045403775979,
+        "std": 97.26003241424775
+    },
+    "demodule_121_sealevel_max_05454": {
+        "mean": 0.038221325010637644,
+        "std": 37.748407252175
+    },
+    "past_year_sealevel_max_05454": {
+        "mean": 245.49730954403853,
+        "std": 126.18301207822704
+    },
+    "shift_20_days_sealevel_max_05454": {
+        "mean": 249.238176154064,
+        "std": 125.9429906881318
+    },
+    "shift_10_days_sealevel_max_05454": {
+        "mean": 249.29283489096574,
+        "std": 125.9089961225387
+    },
+    "past_year_sealevel_max_3D_05454": {
+        "mean": 245.46245948582333,
+        "std": 125.86937358366976
+    },
+    "shift_30_days_sealevel_max_05454": {
+        "mean": 249.17200037760784,
+        "std": 125.98073819020965
+    },
+    "demodule_365_sealevel_max_05803": {
+        "mean": 280.7036704328803,
+        "std": 58.81241173291078
+    },
+    "demodule_121_sealevel_max_05803": {
+        "mean": 0.444479774114148,
+        "std": 29.771217150325157
+    },
+    "past_year_sealevel_max_05803": {
+        "mean": 275.0444161238554,
+        "std": 78.45052143766759
+    },
+    "shift_20_days_sealevel_max_05803": {
+        "mean": 277.19342962333616,
+        "std": 78.14650227523478
+    },
+    "shift_10_days_sealevel_max_05803": {
+        "mean": 277.22288303596713,
+        "std": 78.12684968997776
+    },
+    "past_year_sealevel_max_3D_05803": {
+        "mean": 275.19970735391297,
+        "std": 78.06615866851179
+    },
+    "shift_30_days_sealevel_max_05803": {
+        "mean": 277.1398093080336,
+        "std": 78.17311837941169
+    },
+    "demodule_365_sealevel_max_05805": {
+        "mean": 92.81577928665438,
+        "std": 29.26304617582782
+    },
+    "demodule_121_sealevel_max_05805": {
+        "mean": 0.2417446966382145,
+        "std": 15.184864554246298
+    },
+    "past_year_sealevel_max_05805": {
+        "mean": 89.02846219201359,
+        "std": 41.472302969342465
+    },
+    "shift_20_days_sealevel_max_05805": {
+        "mean": 89.95355423392806,
+        "std": 41.52352683303294
+    },
+    "shift_10_days_sealevel_max_05805": {
+        "mean": 89.97658831303691,
+        "std": 41.51368640327907
+    },
+    "past_year_sealevel_max_3D_05805": {
+        "mean": 89.11450958179961,
+        "std": 40.870931936565526
+    },
+    "shift_30_days_sealevel_max_05805": {
+        "mean": 89.92079675257246,
+        "std": 41.53356774546635
+    },
+    "demodule_365_sealevel_max_06005": {
+        "mean": 177.65177511605762,
+        "std": 95.22458145669275
+    },
+    "demodule_121_sealevel_max_06005": {
+        "mean": 0.33281236244731377,
+        "std": 38.432438507008136
+    },
+    "past_year_sealevel_max_06005": {
+        "mean": 177.99216463702444,
+        "std": 138.4436684662995
+    },
+    "shift_20_days_sealevel_max_06005": {
+        "mean": 181.27230246389124,
+        "std": 139.40267392583027
+    },
+    "shift_10_days_sealevel_max_06005": {
+        "mean": 181.28721797413385,
+        "std": 139.39299957170812
+    },
+    "past_year_sealevel_max_3D_06005": {
+        "mean": 177.29939582743313,
+        "std": 137.455840923053
+    },
+    "shift_30_days_sealevel_max_06005": {
+        "mean": 181.2369961295195,
+        "std": 139.42352921028808
+    },
+    "demodule_365_sealevel_max_06010": {
+        "mean": 121.3121939516805,
+        "std": 124.16690029908754
+    },
+    "demodule_121_sealevel_max_06010": {
+        "mean": 0.7929522149152504,
+        "std": 40.409481584318236
+    },
+    "past_year_sealevel_max_06010": {
+        "mean": 119.50476729915982,
+        "std": 160.30500338303372
+    },
+    "shift_20_days_sealevel_max_06010": {
+        "mean": 123.11554800339847,
+        "std": 161.6116207224417
+    },
+    "shift_10_days_sealevel_max_06010": {
+        "mean": 123.12725384688001,
+        "std": 161.60384209776865
+    },
+    "past_year_sealevel_max_3D_06010": {
+        "mean": 119.4356335945122,
+        "std": 159.56005897768645
+    },
+    "shift_30_days_sealevel_max_06010": {
+        "mean": 123.0665533843104,
+        "std": 161.6399048638615
+    },
+    "demodule_365_sealevel_max_06020": {
+        "mean": 127.15847418509577,
+        "std": 128.24851395201574
+    },
+    "demodule_121_sealevel_max_06020": {
+        "mean": 0.5183205021424998,
+        "std": 46.63056779031764
+    },
+    "past_year_sealevel_max_06020": {
+        "mean": 127.50042480883603,
+        "std": 165.0816015283056
+    },
+    "shift_20_days_sealevel_max_06020": {
+        "mean": 129.08618899273105,
+        "std": 167.2294276941692
+    },
+    "shift_10_days_sealevel_max_06020": {
+        "mean": 129.0725951099783,
+        "std": 167.23547933658972
+    },
+    "past_year_sealevel_max_3D_06020": {
+        "mean": 127.41385820825057,
+        "std": 164.36014761064487
+    },
+    "shift_30_days_sealevel_max_06020": {
+        "mean": 129.10119890493723,
+        "std": 167.22267803095613
+    },
+    "demodule_365_sealevel_max_06022": {
+        "mean": 131.74905226692795,
+        "std": 94.5994326011791
+    },
+    "demodule_121_sealevel_max_06022": {
+        "mean": 0.32753617597495427,
+        "std": 40.98472421579698
+    },
+    "past_year_sealevel_max_06022": {
+        "mean": 133.0048145001416,
+        "std": 129.14768321543798
+    },
+    "shift_20_days_sealevel_max_06022": {
+        "mean": 131.80487114131975,
+        "std": 131.53764181762006
+    },
+    "shift_10_days_sealevel_max_06022": {
+        "mean": 131.81034645520626,
+        "std": 131.53847810525238
+    },
+    "past_year_sealevel_max_3D_06022": {
+        "mean": 132.97029484879923,
+        "std": 128.51424053340904
+    },
+    "shift_30_days_sealevel_max_06022": {
+        "mean": 131.8476352308128,
+        "std": 131.52967687597933
+    },
+    "demodule_365_sealevel_max_06024": {
+        "mean": 209.88129229230344,
+        "std": 87.11603541530586
+    },
+    "demodule_121_sealevel_max_06024": {
+        "mean": 0.038606201541645215,
+        "std": 46.13267735553279
+    },
+    "past_year_sealevel_max_06024": {
+        "mean": 213.22057018785992,
+        "std": 131.48049548776444
+    },
+    "shift_20_days_sealevel_max_06024": {
+        "mean": 210.39422259983007,
+        "std": 133.2283598107291
+    },
+    "shift_10_days_sealevel_max_06024": {
+        "mean": 210.35542339280656,
+        "std": 133.22193197825752
+    },
+    "past_year_sealevel_max_3D_06024": {
+        "mean": 213.18649107901493,
+        "std": 130.83738993267934
+    },
+    "shift_30_days_sealevel_max_06024": {
+        "mean": 210.53752478051544,
+        "std": 133.19315831530915
+    },
+    "demodule_365_sealevel_max_06026": {
+        "mean": 125.12989627488714,
+        "std": 76.71923286273376
+    },
+    "demodule_121_sealevel_max_06026": {
+        "mean": 0.16694177357266698,
+        "std": 41.86013267771072
+    },
+    "past_year_sealevel_max_06026": {
+        "mean": 123.91905031624658,
+        "std": 118.39065156501059
+    },
+    "shift_20_days_sealevel_max_06026": {
+        "mean": 123.70301142263759,
+        "std": 120.02996922232417
+    },
+    "shift_10_days_sealevel_max_06026": {
+        "mean": 123.72623430567356,
+        "std": 120.03034535732196
+    },
+    "past_year_sealevel_max_3D_06026": {
+        "mean": 123.95369583687318,
+        "std": 117.74179752012049
+    },
+    "shift_30_days_sealevel_max_06026": {
+        "mean": 123.77900500330406,
+        "std": 119.98061180968298
+    },
+    "demodule_365_sealevel_max_06027": {
+        "mean": 273.6747717442613,
+        "std": 114.77625490056664
+    },
+    "demodule_121_sealevel_max_06027": {
+        "mean": 0.1493830556886675,
+        "std": 56.77749594217318
+    },
+    "past_year_sealevel_max_06027": {
+        "mean": 269.7316152175965,
+        "std": 158.63736875076933
+    },
+    "shift_20_days_sealevel_max_06027": {
+        "mean": 270.2416690267158,
+        "std": 160.74645296841584
+    },
+    "shift_10_days_sealevel_max_06027": {
+        "mean": 270.3444727650335,
+        "std": 160.75455221916468
+    },
+    "past_year_sealevel_max_3D_06027": {
+        "mean": 269.69670222473917,
+        "std": 157.94011956748434
+    },
+    "shift_30_days_sealevel_max_06027": {
+        "mean": 270.28320589068255,
+        "std": 160.70944383641785
+    },
+    "demodule_365_sealevel_max_06030": {
+        "mean": 671.0418396393454,
+        "std": 159.79775941830877
+    },
+    "demodule_121_sealevel_max_06030": {
+        "mean": 0.5709883660186825,
+        "std": 76.95359175973859
+    },
+    "past_year_sealevel_max_06030": {
+        "mean": 664.3042103275748,
+        "std": 213.76521991188673
+    },
+    "shift_20_days_sealevel_max_06030": {
+        "mean": 664.5177003681677,
+        "std": 215.74325852734347
+    },
+    "shift_10_days_sealevel_max_06030": {
+        "mean": 664.558482016426,
+        "std": 215.7486609630824
+    },
+    "past_year_sealevel_max_3D_06030": {
+        "mean": 664.183485949841,
+        "std": 212.927446004214
+    },
+    "shift_30_days_sealevel_max_06030": {
+        "mean": 664.6250354007364,
+        "std": 215.70071575331554
+    },
+    "demodule_365_sealevel_max_06256": {
+        "mean": 182.07238432292277,
+        "std": 45.420189696164066
+    },
+    "demodule_121_sealevel_max_06256": {
+        "mean": 0.11603861261321197,
+        "std": 11.033661170848735
+    },
+    "past_year_sealevel_max_06256": {
+        "mean": 184.65156235249694,
+        "std": 51.1710793647521
+    },
+    "shift_20_days_sealevel_max_06256": {
+        "mean": 183.6005852921741,
+        "std": 51.75789075783211
+    },
+    "shift_10_days_sealevel_max_06256": {
+        "mean": 183.5832153308789,
+        "std": 51.758186094229586
+    },
+    "past_year_sealevel_max_3D_06256": {
+        "mean": 184.6688536454888,
+        "std": 51.09403809642576
+    },
+    "shift_30_days_sealevel_max_06256": {
+        "mean": 183.62541300859058,
+        "std": 51.75552902474911
+    },
+    "demodule_365_sealevel_max_06259": {
+        "mean": 140.69478845672236,
+        "std": 38.99182362871302
+    },
+    "demodule_121_sealevel_max_06259": {
+        "mean": 0.039628075312094176,
+        "std": 11.403340149291196
+    },
+    "past_year_sealevel_max_06259": {
+        "mean": 141.12711224393468,
+        "std": 47.35327911750222
+    },
+    "shift_20_days_sealevel_max_06259": {
+        "mean": 140.8184650240725,
+        "std": 48.10474071180782
+    },
+    "shift_10_days_sealevel_max_06259": {
+        "mean": 140.79439252336448,
+        "std": 48.108526712219394
+    },
+    "past_year_sealevel_max_3D_06259": {
+        "mean": 141.1445294062116,
+        "std": 47.151529365680666
+    },
+    "shift_30_days_sealevel_max_06259": {
+        "mean": 140.8482960445577,
+        "std": 48.09807257781633
+    },
+    "demodule_365_sealevel_max_06296": {
+        "mean": 145.62348501256042,
+        "std": 52.680383729954535
+    },
+    "demodule_121_sealevel_max_06296": {
+        "mean": 0.1172151370187341,
+        "std": 38.873471876246114
+    },
+    "past_year_sealevel_max_06296": {
+        "mean": 147.55966204097047,
+        "std": 97.72713216683968
+    },
+    "shift_20_days_sealevel_max_06296": {
+        "mean": 145.3430567355801,
+        "std": 98.94773280194323
+    },
+    "shift_10_days_sealevel_max_06296": {
+        "mean": 145.34806003964883,
+        "std": 98.95060587964859
+    },
+    "past_year_sealevel_max_3D_06296": {
+        "mean": 147.55956763900653,
+        "std": 96.92846066356415
+    },
+    "shift_30_days_sealevel_max_06296": {
+        "mean": 145.4322665911451,
+        "std": 98.91450486259794
+    },
+    "demodule_365_sealevel_max_06549": {
+        "mean": 143.27693173910558,
+        "std": 32.31201633524076
+    },
+    "demodule_121_sealevel_max_06549": {
+        "mean": 0.007172177955310297,
+        "std": 13.642460997789282
+    },
+    "past_year_sealevel_max_06549": {
+        "mean": 143.2078259227792,
+        "std": 45.957844926765134
+    },
+    "shift_20_days_sealevel_max_06549": {
+        "mean": 143.33597658831303,
+        "std": 46.50099207445802
+    },
+    "shift_10_days_sealevel_max_06549": {
+        "mean": 143.33767582365712,
+        "std": 46.50061837045668
+    },
+    "past_year_sealevel_max_3D_06549": {
+        "mean": 143.2251329494316,
+        "std": 45.5182930247166
+    },
+    "shift_30_days_sealevel_max_06549": {
+        "mean": 143.34466156896065,
+        "std": 46.49745656296813
+    },
+    "shift_10_days_sin_day_of_year_05001": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05001": {
+        "mean": 1.7735680201116772,
+        "std": 3.653450706528045
+    },
+    "pressure_05001": {
+        "mean": 1004.0885366149398,
+        "std": 8.313650192731547
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05001": {
+        "mean": 87.34901688702028,
+        "std": 8.447410988983892
+    },
+    "airTemperature_min_05001": {
+        "mean": -2.2940280798243236,
+        "std": 15.344611633188554
+    },
+    "airTemperature_max_05001": {
+        "mean": 7.676268935334605,
+        "std": 15.397274084664023
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05001": {
+        "mean": 87.34835128058619,
+        "std": 7.435873725731876
+    },
+    "shift_1_days_airTemperature_min_05001": {
+        "mean": -2.2937968186318707,
+        "std": 15.344233775506918
+    },
+    "cos_day_of_year_05001": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05001": {
+        "mean": 1.7737617119262554,
+        "std": 5.28162885884215
+    },
+    "shift_10_days_pressure_05001": {
+        "mean": 1004.088310571053,
+        "std": 8.311107369350761
+    },
+    "shift_10_days_windSpeed_05001": {
+        "mean": 4.030491046854781,
+        "std": 1.9664022325765873
+    },
+    "sin_day_of_year_05001": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05001": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05001": {
+        "mean": 7.676588439635966,
+        "std": 15.396680060126165
+    },
+    "relativeHumidity_05001": {
+        "mean": 87.35014621904388,
+        "std": 10.031546516093373
+    },
+    "accumulate_7_days_relativeHumidity_sum_05001": {
+        "mean": 87.34960070025501,
+        "std": 7.4351547553502
+    },
+    "shift_1_days_windDirection_05001": {
+        "mean": 155.73473447574722,
+        "std": 80.14085785276696
+    },
+    "shift_1_days_relativeHumidity_05001": {
+        "mean": 87.35010780452143,
+        "std": 10.03156750662785
+    },
+    "shift_10_days_airTemperature_max_05001": {
+        "mean": 7.677123140538828,
+        "std": 15.395656551335025
+    },
+    "shift_10_days_relativeHumidity_05001": {
+        "mean": 87.3494891740649,
+        "std": 10.031169784421985
+    },
+    "windDirection_05001": {
+        "mean": 155.73764584857568,
+        "std": 80.14245099918561
+    },
+    "shift_10_days_airTemperature_min_05001": {
+        "mean": -2.2914532884371,
+        "std": 15.340199115298846
+    },
+    "shift_10_days_windDirection_05001": {
+        "mean": 155.738662309514,
+        "std": 80.11302413414222
+    },
+    "accumulate_3_days_relativeHumidity_sum_05001": {
+        "mean": 87.34986654817037,
+        "std": 8.447222800931808
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05001": {
+        "mean": 1.7736082542830687,
+        "std": 2.773076865545136
+    },
+    "shift_1_days_pressure_05001": {
+        "mean": 1004.0897436410811,
+        "std": 8.313924546122864
+    },
+    "demodule_diff_05001": {
+        "mean": 198.73666012721824,
+        "std": 120.19450392190844
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05001": {
+        "mean": 1.7735609645813737,
+        "std": 5.281680249754909
+    },
+    "shift_10_days_soilTemperature_05001": {
+        "mean": 3.0922656037940026,
+        "std": 17.177469095718095
+    },
+    "perc_days_05001": {
+        "mean": 1.901916359860285,
+        "std": 3.995431339864107
+    },
+    "shift_10_days_maximumWindGustSpeed_05001": {
+        "mean": 6.687194169257933,
+        "std": 3.0141120730476976
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05001": {
+        "mean": 1.7737544797095077,
+        "std": 5.281631233350159
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05001": {
+        "mean": 1.7736898114262765,
+        "std": 2.7730281743972105
+    },
+    "windSpeed_05001": {
+        "mean": 4.031568106537544,
+        "std": 1.9655657741878945
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05001": {
+        "mean": 1.7737291090456924,
+        "std": 3.6533833744877464
+    },
+    "accumulate_45_days_relativeHumidity_sum_05001": {
+        "mean": 87.33938012205314,
+        "std": 5.97546959957649
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05001": {
+        "mean": 1.7730978264784125,
+        "std": 1.7806069627413381
+    },
+    "shift_1_days_windSpeed_05001": {
+        "mean": 4.031441010836087,
+        "std": 1.9656757277245758
+    },
+    "shift_10_days_sin_day_of_year_05002": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05002": {
+        "mean": 1.886583688911491,
+        "std": 3.726025901964004
+    },
+    "pressure_05002": {
+        "mean": 1004.3288434269242,
+        "std": 8.194003122152203
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05002": {
+        "mean": 86.03006155079044,
+        "std": 9.367524764412693
+    },
+    "airTemperature_min_05002": {
+        "mean": -1.9359067218060217,
+        "std": 15.029849502026497
+    },
+    "airTemperature_max_05002": {
+        "mean": 7.61223087227028,
+        "std": 15.320835493430344
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05002": {
+        "mean": 86.02993171930132,
+        "std": 8.239290906085635
+    },
+    "shift_1_days_airTemperature_min_05002": {
+        "mean": -1.9354347443898947,
+        "std": 15.029083723025762
+    },
+    "cos_day_of_year_05002": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05002": {
+        "mean": 1.8867904380250904,
+        "std": 5.380207936707096
+    },
+    "shift_10_days_pressure_05002": {
+        "mean": 1004.3290408224777,
+        "std": 8.19199852527394
+    },
+    "shift_10_days_windSpeed_05002": {
+        "mean": 4.015362668708888,
+        "std": 1.8486204024337884
+    },
+    "sin_day_of_year_05002": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05002": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05002": {
+        "mean": 7.612682994699419,
+        "std": 15.320015199569063
+    },
+    "relativeHumidity_05002": {
+        "mean": 86.02645183729682,
+        "std": 11.006014682094914
+    },
+    "accumulate_7_days_relativeHumidity_sum_05002": {
+        "mean": 86.02673283625026,
+        "std": 8.24146122755559
+    },
+    "shift_1_days_windDirection_05002": {
+        "mean": 150.04517858826466,
+        "std": 78.38218109201631
+    },
+    "shift_1_days_relativeHumidity_05002": {
+        "mean": 86.02640717464003,
+        "std": 11.006026737501749
+    },
+    "shift_10_days_airTemperature_max_05002": {
+        "mean": 7.614617445119385,
+        "std": 15.316592984120948
+    },
+    "shift_10_days_relativeHumidity_05002": {
+        "mean": 86.03008587934983,
+        "std": 11.003176154666217
+    },
+    "windDirection_05002": {
+        "mean": 150.0448502590655,
+        "std": 78.38173124115757
+    },
+    "shift_10_days_airTemperature_min_05002": {
+        "mean": -1.9317623771924806,
+        "std": 15.023115433706822
+    },
+    "shift_10_days_windDirection_05002": {
+        "mean": 150.10640056904103,
+        "std": 78.40948198668771
+    },
+    "accumulate_3_days_relativeHumidity_sum_05002": {
+        "mean": 86.02626199365811,
+        "std": 9.370231450562923
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05002": {
+        "mean": 1.8866081688921257,
+        "std": 2.8161034798110816
+    },
+    "shift_1_days_pressure_05002": {
+        "mean": 1004.3300936542984,
+        "std": 8.194317533276903
+    },
+    "demodule_diff_05002": {
+        "mean": 199.0016933409747,
+        "std": 115.95661047870675
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05002": {
+        "mean": 1.8865791779825132,
+        "std": 5.380259747291266
+    },
+    "shift_10_days_soilTemperature_05002": {
+        "mean": 3.1458285018771415,
+        "std": 16.883292987995855
+    },
+    "perc_days_05002": {
+        "mean": 1.6017181157368072,
+        "std": 3.0865634508331246
+    },
+    "shift_10_days_maximumWindGustSpeed_05002": {
+        "mean": 6.92267412975275,
+        "std": 2.865589763042268
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05002": {
+        "mean": 1.8867725715558252,
+        "std": 5.380213888601589
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05002": {
+        "mean": 1.8866754169876923,
+        "std": 2.8160616862668397
+    },
+    "windSpeed_05002": {
+        "mean": 4.015334961626287,
+        "std": 1.8488172057077004
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05002": {
+        "mean": 1.8867366454626173,
+        "std": 3.7259618669768297
+    },
+    "accumulate_45_days_relativeHumidity_sum_05002": {
+        "mean": 86.02230253240862,
+        "std": 6.576886235290458
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05002": {
+        "mean": 1.8859687249039856,
+        "std": 1.840936965029364
+    },
+    "shift_1_days_windSpeed_05002": {
+        "mean": 4.015344551234542,
+        "std": 1.848812203351301
+    },
+    "shift_10_days_sin_day_of_year_05004": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05004": {
+        "mean": 1.814049780160891,
+        "std": 3.471928536898117
+    },
+    "pressure_05004": {
+        "mean": 1004.2713897838704,
+        "std": 7.995905808376028
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05004": {
+        "mean": 86.17327329073872,
+        "std": 9.079515164467095
+    },
+    "airTemperature_min_05004": {
+        "mean": -2.0328801110640944,
+        "std": 15.085875491575644
+    },
+    "airTemperature_max_05004": {
+        "mean": 7.344360842324779,
+        "std": 15.421130018535427
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05004": {
+        "mean": 86.17296350968226,
+        "std": 8.003957065621028
+    },
+    "shift_1_days_airTemperature_min_05004": {
+        "mean": -2.032385041392935,
+        "std": 15.085061741568696
+    },
+    "cos_day_of_year_05004": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05004": {
+        "mean": 1.8143119447888731,
+        "std": 4.983469142685432
+    },
+    "shift_10_days_pressure_05004": {
+        "mean": 1004.2720021997146,
+        "std": 7.994188874266715
+    },
+    "shift_10_days_windSpeed_05004": {
+        "mean": 4.0308700858707756,
+        "std": 1.7291515446582242
+    },
+    "sin_day_of_year_05004": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05004": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05004": {
+        "mean": 7.344757194135592,
+        "std": 15.420414847208486
+    },
+    "relativeHumidity_05004": {
+        "mean": 86.17103188891646,
+        "std": 10.588120956744339
+    },
+    "accumulate_7_days_relativeHumidity_sum_05004": {
+        "mean": 86.17091921292545,
+        "std": 8.00561847549562
+    },
+    "shift_1_days_windDirection_05004": {
+        "mean": 151.15531716699454,
+        "std": 75.60676050064066
+    },
+    "shift_1_days_relativeHumidity_05004": {
+        "mean": 86.17066432187787,
+        "std": 10.588206094593755
+    },
+    "shift_10_days_airTemperature_max_05004": {
+        "mean": 7.346569947442862,
+        "std": 15.41720385618452
+    },
+    "shift_10_days_relativeHumidity_05004": {
+        "mean": 86.17333183508036,
+        "std": 10.585703206165698
+    },
+    "windDirection_05004": {
+        "mean": 151.15549298069686,
+        "std": 75.60701385567278
+    },
+    "shift_10_days_airTemperature_min_05004": {
+        "mean": -2.029161266943049,
+        "std": 15.07982582260068
+    },
+    "shift_10_days_windDirection_05004": {
+        "mean": 151.21887050099963,
+        "std": 75.63559490005883
+    },
+    "accumulate_3_days_relativeHumidity_sum_05004": {
+        "mean": 86.17060773305752,
+        "std": 9.08180825578769
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05004": {
+        "mean": 1.8140724086716602,
+        "std": 2.627312025310732
+    },
+    "shift_1_days_pressure_05004": {
+        "mean": 1004.2727010391769,
+        "std": 7.996195892917073
+    },
+    "demodule_diff_05004": {
+        "mean": 198.8288318330458,
+        "std": 115.06376202443357
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05004": {
+        "mean": 1.8140458341548875,
+        "std": 4.983521527277389
+    },
+    "shift_10_days_soilTemperature_05004": {
+        "mean": 2.870106660764186,
+        "std": 16.889861532338642
+    },
+    "perc_days_05004": {
+        "mean": 1.5909562918908713,
+        "std": 3.079489047840106
+    },
+    "shift_10_days_maximumWindGustSpeed_05004": {
+        "mean": 7.080110863697822,
+        "std": 2.666192006360668
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05004": {
+        "mean": 1.8142786324113882,
+        "std": 4.983480092081198
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05004": {
+        "mean": 1.8141514627440516,
+        "std": 2.6272626315205767
+    },
+    "windSpeed_05004": {
+        "mean": 4.030515029332985,
+        "std": 1.729490613032796
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05004": {
+        "mean": 1.8142273370299122,
+        "std": 3.471857135778501
+    },
+    "accumulate_45_days_relativeHumidity_sum_05004": {
+        "mean": 86.165292846751,
+        "std": 6.40535828610836
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05004": {
+        "mean": 1.813494747637412,
+        "std": 1.7355607519863867
+    },
+    "shift_1_days_windSpeed_05004": {
+        "mean": 4.030562453242846,
+        "std": 1.7294692654673562
+    },
+    "shift_10_days_sin_day_of_year_05009": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05009": {
+        "mean": 1.781115584637152,
+        "std": 3.449924011831248
+    },
+    "pressure_05009": {
+        "mean": 1003.1847043055095,
+        "std": 7.60838968421531
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05009": {
+        "mean": 85.97705062102605,
+        "std": 9.004239555688235
+    },
+    "airTemperature_min_05009": {
+        "mean": -1.6232367957410936,
+        "std": 15.085364848441863
+    },
+    "airTemperature_max_05009": {
+        "mean": 6.609831674478509,
+        "std": 15.745175641987732
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05009": {
+        "mean": 85.97736823115187,
+        "std": 7.6737178262494
+    },
+    "shift_1_days_airTemperature_min_05009": {
+        "mean": -1.62294502716282,
+        "std": 15.084881709139065
+    },
+    "cos_day_of_year_05009": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05009": {
+        "mean": 1.7817538767869738,
+        "std": 5.005451673150986
+    },
+    "shift_10_days_pressure_05009": {
+        "mean": 1003.1872271582043,
+        "std": 7.609004308314667
+    },
+    "shift_10_days_windSpeed_05009": {
+        "mean": 4.333276417646955,
+        "std": 1.639586058747234
+    },
+    "sin_day_of_year_05009": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05009": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05009": {
+        "mean": 6.609806115045655,
+        "std": 15.745219708845442
+    },
+    "relativeHumidity_05009": {
+        "mean": 85.97154916066857,
+        "std": 10.927403777215766
+    },
+    "accumulate_7_days_relativeHumidity_sum_05009": {
+        "mean": 85.97271593616556,
+        "std": 7.676356733943165
+    },
+    "shift_1_days_windDirection_05009": {
+        "mean": 159.01446159180097,
+        "std": 71.04775768492337
+    },
+    "shift_1_days_relativeHumidity_05009": {
+        "mean": 85.97166900457778,
+        "std": 10.927381292880153
+    },
+    "shift_10_days_airTemperature_max_05009": {
+        "mean": 6.609988533199862,
+        "std": 15.744808480342869
+    },
+    "shift_10_days_relativeHumidity_05009": {
+        "mean": 85.97654298258712,
+        "std": 10.92432147047189
+    },
+    "windDirection_05009": {
+        "mean": 159.01610171261072,
+        "std": 71.04875053092584
+    },
+    "shift_10_days_airTemperature_min_05009": {
+        "mean": -1.62151121404667,
+        "std": 15.082371218890572
+    },
+    "shift_10_days_windDirection_05009": {
+        "mean": 159.02647364966754,
+        "std": 71.01977870058813
+    },
+    "accumulate_3_days_relativeHumidity_sum_05009": {
+        "mean": 85.9715149612397,
+        "std": 9.007214099228714
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05009": {
+        "mean": 1.781116682825774,
+        "std": 2.5591400886382334
+    },
+    "shift_1_days_pressure_05009": {
+        "mean": 1003.1861941538374,
+        "std": 7.6088055397260925
+    },
+    "demodule_diff_05009": {
+        "mean": 197.25481853311476,
+        "std": 99.39357490404849
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05009": {
+        "mean": 1.7811155846371767,
+        "std": 5.005432990639152
+    },
+    "shift_10_days_soilTemperature_05009": {
+        "mean": 2.4233417227367724,
+        "std": 17.096820142166656
+    },
+    "perc_days_05009": {
+        "mean": 1.5532899084300953,
+        "std": 2.891187644828723
+    },
+    "shift_10_days_maximumWindGustSpeed_05009": {
+        "mean": 8.40030749670542,
+        "std": 2.8730200531384353
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05009": {
+        "mean": 1.7816095426329706,
+        "std": 5.005481007650406
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05009": {
+        "mean": 1.7813112926872896,
+        "std": 2.55903245284441
+    },
+    "windSpeed_05009": {
+        "mean": 4.334824253911386,
+        "std": 1.6390434829921199
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05009": {
+        "mean": 1.7815046619362371,
+        "std": 3.449821693663193
+    },
+    "accumulate_45_days_relativeHumidity_sum_05009": {
+        "mean": 85.97297708004443,
+        "std": 5.728977822002688
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05009": {
+        "mean": 1.7805292340926946,
+        "std": 1.5887988823865846
+    },
+    "shift_1_days_windSpeed_05009": {
+        "mean": 4.334708499657325,
+        "std": 1.639130802309135
+    },
+    "shift_10_days_sin_day_of_year_05012": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05012": {
+        "mean": 1.7718564853439498,
+        "std": 3.4151925367798146
+    },
+    "pressure_05012": {
+        "mean": 1003.7721329654555,
+        "std": 7.598389640237869
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05012": {
+        "mean": 86.09738518608931,
+        "std": 8.96660278908116
+    },
+    "airTemperature_min_05012": {
+        "mean": -1.6939874638054921,
+        "std": 15.126578861056457
+    },
+    "airTemperature_max_05012": {
+        "mean": 6.574176105230395,
+        "std": 15.755175264615119
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05012": {
+        "mean": 86.09760168768263,
+        "std": 7.637805290086823
+    },
+    "shift_1_days_airTemperature_min_05012": {
+        "mean": -1.6936760409946061,
+        "std": 15.12606505410235
+    },
+    "cos_day_of_year_05012": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05012": {
+        "mean": 1.7725098638672572,
+        "std": 4.953708714285418
+    },
+    "shift_10_days_pressure_05012": {
+        "mean": 1003.7744603795737,
+        "std": 7.598477833576815
+    },
+    "shift_10_days_windSpeed_05012": {
+        "mean": 4.367663051064735,
+        "std": 1.6487875231196358
+    },
+    "sin_day_of_year_05012": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05012": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05012": {
+        "mean": 6.574143708009236,
+        "std": 15.755230978611976
+    },
+    "relativeHumidity_05012": {
+        "mean": 86.09209933469573,
+        "std": 10.883157345395414
+    },
+    "accumulate_7_days_relativeHumidity_sum_05012": {
+        "mean": 86.09304442241923,
+        "std": 7.640402835333144
+    },
+    "shift_1_days_windDirection_05012": {
+        "mean": 159.02411606955297,
+        "std": 70.80874184647652
+    },
+    "shift_1_days_relativeHumidity_05012": {
+        "mean": 86.092021913156,
+        "std": 10.883164478080268
+    },
+    "shift_10_days_airTemperature_max_05012": {
+        "mean": 6.5744571176011775,
+        "std": 15.75458853978522
+    },
+    "shift_10_days_relativeHumidity_05012": {
+        "mean": 86.09688460553832,
+        "std": 10.880111975045004
+    },
+    "windDirection_05012": {
+        "mean": 159.02583775952172,
+        "std": 70.80979785770316
+    },
+    "shift_10_days_airTemperature_min_05012": {
+        "mean": -1.692065225655725,
+        "std": 15.123273564198682
+    },
+    "shift_10_days_windDirection_05012": {
+        "mean": 159.03705142819354,
+        "std": 70.78145134140702
+    },
+    "accumulate_3_days_relativeHumidity_sum_05012": {
+        "mean": 86.09193539879058,
+        "std": 8.9695792187228
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05012": {
+        "mean": 1.77185825054391,
+        "std": 2.532600554597717
+    },
+    "shift_1_days_pressure_05012": {
+        "mean": 1003.7736305717297,
+        "std": 7.5987274474752216
+    },
+    "demodule_diff_05012": {
+        "mean": 200.01153128008073,
+        "std": 100.90114111912781
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05012": {
+        "mean": 1.771856485343971,
+        "std": 4.953692504620622
+    },
+    "shift_10_days_soilTemperature_05012": {
+        "mean": 2.30846381701687,
+        "std": 17.16641069140718
+    },
+    "perc_days_05012": {
+        "mean": 1.5426224865477203,
+        "std": 2.8818142342151307
+    },
+    "shift_10_days_maximumWindGustSpeed_05012": {
+        "mean": 8.398945948266624,
+        "std": 2.8633675307241266
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05012": {
+        "mean": 1.7723404180671312,
+        "std": 4.95373864561286
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05012": {
+        "mean": 1.7720503907702838,
+        "std": 2.5324945831607
+    },
+    "windSpeed_05012": {
+        "mean": 4.369331553554886,
+        "std": 1.6481335758017013
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05012": {
+        "mean": 1.7722462007033222,
+        "std": 3.415092568111523
+    },
+    "accumulate_45_days_relativeHumidity_sum_05012": {
+        "mean": 86.0929671840869,
+        "std": 5.6927914593448765
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05012": {
+        "mean": 1.7712773673603175,
+        "std": 1.5706637662539744
+    },
+    "shift_1_days_windSpeed_05012": {
+        "mean": 4.369204481105608,
+        "std": 1.648232889252651
+    },
+    "shift_10_days_sin_day_of_year_05013": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05013": {
+        "mean": 1.7731345648622103,
+        "std": 3.4184586666555608
+    },
+    "pressure_05013": {
+        "mean": 1003.7503988080472,
+        "std": 7.599659914696688
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05013": {
+        "mean": 86.09381881821383,
+        "std": 8.966211632271035
+    },
+    "airTemperature_min_05013": {
+        "mean": -1.69942346476858,
+        "std": 15.126483429878402
+    },
+    "shift_10_days_water_flow_05013": {
+        "mean": 7825.4337298215805,
+        "std": 6607.700784581666
+    },
+    "airTemperature_max_05013": {
+        "mean": 6.579760942728665,
+        "std": 15.75390780871675
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05013": {
+        "mean": 86.09403325325202,
+        "std": 7.638631159843753
+    },
+    "shift_1_days_airTemperature_min_05013": {
+        "mean": -1.69910955449947,
+        "std": 15.125965128828591
+    },
+    "cos_day_of_year_05013": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05013": {
+        "mean": 1.7737825049433342,
+        "std": 4.958147053356164
+    },
+    "shift_10_days_pressure_05013": {
+        "mean": 1003.7527258313189,
+        "std": 7.599755735973354
+    },
+    "shift_10_days_windSpeed_05013": {
+        "mean": 4.363685209851107,
+        "std": 1.647168182477642
+    },
+    "sin_day_of_year_05013": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05013": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05013": {
+        "mean": 6.579733020951952,
+        "std": 15.753955883473273
+    },
+    "relativeHumidity_05013": {
+        "mean": 86.08853793430525,
+        "std": 10.878918739277761
+    },
+    "accumulate_7_days_relativeHumidity_sum_05013": {
+        "mean": 86.08948406402776,
+        "std": 7.641227372140445
+    },
+    "shift_1_days_windDirection_05013": {
+        "mean": 159.02375457175984,
+        "std": 70.81098248640603
+    },
+    "shift_1_days_relativeHumidity_05013": {
+        "mean": 86.08846345810142,
+        "std": 10.878925771686081
+    },
+    "shift_30_days_water_flow_05013": {
+        "mean": 7822.333569338242,
+        "std": 6610.37556166326
+    },
+    "shift_10_days_airTemperature_max_05013": {
+        "mean": 6.580041633734134,
+        "std": 15.753322785251587
+    },
+    "shift_10_days_relativeHumidity_05013": {
+        "mean": 86.0933184188777,
+        "std": 10.875871774362114
+    },
+    "windDirection_05013": {
+        "mean": 159.02546758762264,
+        "std": 70.81203204145109
+    },
+    "shift_10_days_airTemperature_min_05013": {
+        "mean": -1.6975054923243469,
+        "std": 15.12318600910316
+    },
+    "shift_10_days_windDirection_05013": {
+        "mean": 159.03656344247867,
+        "std": 70.78358875256711
+    },
+    "shift_20_days_water_flow_05013": {
+        "mean": 7823.93557065987,
+        "std": 6609.00015243932
+    },
+    "accumulate_3_days_relativeHumidity_sum_05013": {
+        "mean": 86.08837576926669,
+        "std": 8.969187085602023
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05013": {
+        "mean": 1.7731363801176179,
+        "std": 2.5354304502702285
+    },
+    "shift_1_days_pressure_05013": {
+        "mean": 1003.7518957663013,
+        "std": 7.59999968595093
+    },
+    "demodule_diff_05013": {
+        "mean": 199.63161877894652,
+        "std": 99.4851049012281
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05013": {
+        "mean": 1.7731345648622474,
+        "std": 4.958132828531803
+    },
+    "shift_10_days_soilTemperature_05013": {
+        "mean": 2.313126672235376,
+        "std": 17.160460736275382
+    },
+    "perc_days_05013": {
+        "mean": 1.5406400453129425,
+        "std": 2.8803682716510894
+    },
+    "shift_10_days_maximumWindGustSpeed_05013": {
+        "mean": 8.39505319523259,
+        "std": 2.8616258663533074
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05013": {
+        "mean": 1.7736160365963056,
+        "std": 4.958177004722629
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05013": {
+        "mean": 1.7733276602246775,
+        "std": 2.535324703698358
+    },
+    "windSpeed_05013": {
+        "mean": 4.365339706868074,
+        "std": 1.646520478719942
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05013": {
+        "mean": 1.7735217607265055,
+        "std": 3.418358299613466
+    },
+    "accumulate_45_days_relativeHumidity_sum_05013": {
+        "mean": 86.08940269175508,
+        "std": 5.694524953669682
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05013": {
+        "mean": 1.7725532116715,
+        "std": 1.5729694440813906
+    },
+    "shift_1_days_windSpeed_05013": {
+        "mean": 4.365213526794062,
+        "std": 1.646618913748103
+    },
+    "shift_10_days_sin_day_of_year_05016": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05016": {
+        "mean": 1.7224601192016213,
+        "std": 3.336644037392311
+    },
+    "pressure_05016": {
+        "mean": 1004.9956293665433,
+        "std": 7.668613509663154
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05016": {
+        "mean": 86.3692412043478,
+        "std": 8.988727631824853
+    },
+    "airTemperature_min_05016": {
+        "mean": -1.7947489444980036,
+        "std": 15.226432006179618
+    },
+    "airTemperature_max_05016": {
+        "mean": 6.478127399396426,
+        "std": 15.790061869822452
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05016": {
+        "mean": 86.36927649372515,
+        "std": 7.609612363908222
+    },
+    "shift_1_days_airTemperature_min_05016": {
+        "mean": -1.7944131884996954,
+        "std": 15.225884656006896
+    },
+    "cos_day_of_year_05016": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05016": {
+        "mean": 1.7231702095651786,
+        "std": 4.870473978882733
+    },
+    "shift_10_days_pressure_05016": {
+        "mean": 1004.9975891167353,
+        "std": 7.667654481231444
+    },
+    "shift_10_days_windSpeed_05016": {
+        "mean": 4.451443751274876,
+        "std": 1.7210759705237995
+    },
+    "sin_day_of_year_05016": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05016": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05016": {
+        "mean": 6.47805893832783,
+        "std": 15.790178245874971
+    },
+    "relativeHumidity_05016": {
+        "mean": 86.36436268921837,
+        "std": 11.043885890601997
+    },
+    "accumulate_7_days_relativeHumidity_sum_05016": {
+        "mean": 86.36487103321599,
+        "std": 7.612136858718894
+    },
+    "shift_1_days_windDirection_05016": {
+        "mean": 159.3498810455284,
+        "std": 71.88777959058599
+    },
+    "shift_1_days_relativeHumidity_05016": {
+        "mean": 86.3638960391717,
+        "std": 11.043840060294706
+    },
+    "shift_10_days_airTemperature_max_05016": {
+        "mean": 6.4786449161408255,
+        "std": 15.789047399128801
+    },
+    "shift_10_days_relativeHumidity_05016": {
+        "mean": 86.36875305473795,
+        "std": 11.040844200895481
+    },
+    "windDirection_05016": {
+        "mean": 159.35180183151002,
+        "std": 71.88895950478546
+    },
+    "shift_10_days_airTemperature_min_05016": {
+        "mean": -1.7924322394158037,
+        "std": 15.222495565667995
+    },
+    "shift_10_days_windDirection_05016": {
+        "mean": 159.36522901467148,
+        "std": 71.86239472864189
+    },
+    "accumulate_3_days_relativeHumidity_sum_05016": {
+        "mean": 86.36394361891445,
+        "std": 8.991716397630231
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05016": {
+        "mean": 1.722463024619531,
+        "std": 2.457998323301597
+    },
+    "shift_1_days_pressure_05016": {
+        "mean": 1004.9971449969182,
+        "std": 7.668787820297969
+    },
+    "demodule_diff_05016": {
+        "mean": 201.00551290918392,
+        "std": 104.26745833413888
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05016": {
+        "mean": 1.7224601192016598,
+        "std": 4.870442370649688
+    },
+    "shift_10_days_soilTemperature_05016": {
+        "mean": 2.0680727393480463,
+        "std": 17.347514168172076
+    },
+    "perc_days_05016": {
+        "mean": 1.6185216652506371,
+        "std": 2.979718801510145
+    },
+    "shift_10_days_maximumWindGustSpeed_05016": {
+        "mean": 8.413926434566639,
+        "std": 2.9340336448673705
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05016": {
+        "mean": 1.7229378737673458,
+        "std": 4.870497474132369
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05016": {
+        "mean": 1.722655009747887,
+        "std": 2.4578961296797814
+    },
+    "windSpeed_05016": {
+        "mean": 4.453947721408365,
+        "std": 1.719426854235212
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05016": {
+        "mean": 1.7228641319458948,
+        "std": 3.336554967874995
+    },
+    "accumulate_45_days_relativeHumidity_sum_05016": {
+        "mean": 86.3641846734188,
+        "std": 5.620040324980917
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05016": {
+        "mean": 1.721916352585514,
+        "std": 1.5014668517032415
+    },
+    "shift_1_days_windSpeed_05016": {
+        "mean": 4.45374113188729,
+        "std": 1.7196294982671487
+    },
+    "shift_10_days_sin_day_of_year_05019": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05019": {
+        "mean": 1.8124164774890152,
+        "std": 2.8896549861335346
+    },
+    "pressure_05019": {
+        "mean": 976.4260999536535,
+        "std": 6.934323574019584
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05019": {
+        "mean": 88.40429942660158,
+        "std": 6.937527238600845
+    },
+    "airTemperature_min_05019": {
+        "mean": -3.52938723060004,
+        "std": 15.200661648653451
+    },
+    "airTemperature_max_05019": {
+        "mean": 4.637085545792475,
+        "std": 15.541659533245095
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05019": {
+        "mean": 88.40394142418323,
+        "std": 5.8526408478041
+    },
+    "shift_1_days_airTemperature_min_05019": {
+        "mean": -3.5290932755024125,
+        "std": 15.200240277392792
+    },
+    "cos_day_of_year_05019": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05019": {
+        "mean": 1.8130563184907786,
+        "std": 4.006671944301873
+    },
+    "shift_10_days_pressure_05019": {
+        "mean": 976.429013667118,
+        "std": 6.93216835210121
+    },
+    "shift_10_days_windSpeed_05019": {
+        "mean": 5.262148931648159,
+        "std": 1.916153049225521
+    },
+    "sin_day_of_year_05019": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05019": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05019": {
+        "mean": 4.636981836509244,
+        "std": 15.541820072290301
+    },
+    "relativeHumidity_05019": {
+        "mean": 88.40256550321665,
+        "std": 8.432606980813642
+    },
+    "accumulate_7_days_relativeHumidity_sum_05019": {
+        "mean": 88.40296912145202,
+        "std": 5.85322148852919
+    },
+    "shift_1_days_windDirection_05019": {
+        "mean": 141.91828090685448,
+        "std": 62.0986373817675
+    },
+    "shift_1_days_relativeHumidity_05019": {
+        "mean": 88.40230336228076,
+        "std": 8.432610741807167
+    },
+    "shift_10_days_airTemperature_max_05019": {
+        "mean": 4.639250298897422,
+        "std": 15.53789304010405
+    },
+    "shift_10_days_relativeHumidity_05019": {
+        "mean": 88.4042316469298,
+        "std": 8.43164507310225
+    },
+    "windDirection_05019": {
+        "mean": 141.93265814832506,
+        "std": 62.101351855375135
+    },
+    "shift_10_days_airTemperature_min_05019": {
+        "mean": -3.5241930496603473,
+        "std": 15.192540340525884
+    },
+    "shift_10_days_windDirection_05019": {
+        "mean": 141.8367422025163,
+        "std": 62.09503383437152
+    },
+    "accumulate_3_days_relativeHumidity_sum_05019": {
+        "mean": 88.40238581920269,
+        "std": 6.938410544679344
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05019": {
+        "mean": 1.812394106486921,
+        "std": 2.2018750714621196
+    },
+    "shift_1_days_pressure_05019": {
+        "mean": 976.4278629556359,
+        "std": 6.933472223523408
+    },
+    "demodule_diff_05019": {
+        "mean": 201.13106485833936,
+        "std": 85.20936070331607
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05019": {
+        "mean": 1.8124127677276476,
+        "std": 4.0066526340198925
+    },
+    "shift_10_days_soilTemperature_05019": {
+        "mean": 1.4674024019999845,
+        "std": 17.455198706110686
+    },
+    "perc_days_05019": {
+        "mean": 0.6084206551496271,
+        "std": 1.591545855368221
+    },
+    "shift_10_days_maximumWindGustSpeed_05019": {
+        "mean": 8.522928133164436,
+        "std": 3.02804683335554
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05019": {
+        "mean": 1.8126682803899927,
+        "std": 4.006640474377435
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05019": {
+        "mean": 1.8125326867610345,
+        "std": 2.2017919080175448
+    },
+    "windSpeed_05019": {
+        "mean": 5.265669733878871,
+        "std": 1.9142377024141113
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05019": {
+        "mean": 1.812706044003521,
+        "std": 2.889581838320163
+    },
+    "accumulate_45_days_relativeHumidity_sum_05019": {
+        "mean": 88.3982703631822,
+        "std": 4.2422048282623654
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05019": {
+        "mean": 1.8115063683892794,
+        "std": 1.4585508182313407
+    },
+    "shift_1_days_windSpeed_05019": {
+        "mean": 5.2653269677335315,
+        "std": 1.9144973551027618
+    },
+    "shift_10_days_sin_day_of_year_05020": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05020": {
+        "mean": 1.8392275103192284,
+        "std": 2.9193067091332217
+    },
+    "pressure_05020": {
+        "mean": 978.4629936741363,
+        "std": 7.150096702080812
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05020": {
+        "mean": 88.40129958324903,
+        "std": 6.8976759430355274
+    },
+    "airTemperature_min_05020": {
+        "mean": -3.9028621566156763,
+        "std": 15.385424469763398
+    },
+    "airTemperature_max_05020": {
+        "mean": 4.494619284469067,
+        "std": 15.557738416364401
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05020": {
+        "mean": 88.40093880399594,
+        "std": 5.832490287157241
+    },
+    "shift_1_days_airTemperature_min_05020": {
+        "mean": -3.9026749200519233,
+        "std": 15.385171305479618
+    },
+    "cos_day_of_year_05020": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05020": {
+        "mean": 1.8398229375584163,
+        "std": 4.054432397341061
+    },
+    "shift_10_days_pressure_05020": {
+        "mean": 978.4656283351263,
+        "std": 7.147156402132978
+    },
+    "shift_10_days_windSpeed_05020": {
+        "mean": 5.277695944426399,
+        "std": 1.9139041461518607
+    },
+    "sin_day_of_year_05020": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05020": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05020": {
+        "mean": 4.49450321973446,
+        "std": 15.557915288300396
+    },
+    "relativeHumidity_05020": {
+        "mean": 88.39938894190685,
+        "std": 8.344334832275711
+    },
+    "accumulate_7_days_relativeHumidity_sum_05020": {
+        "mean": 88.39983738285828,
+        "std": 5.833148420235301
+    },
+    "shift_1_days_windDirection_05020": {
+        "mean": 141.0591195937211,
+        "std": 62.04429164093194
+    },
+    "shift_1_days_relativeHumidity_05020": {
+        "mean": 88.39915613054798,
+        "std": 8.344343008020848
+    },
+    "shift_10_days_airTemperature_max_05020": {
+        "mean": 4.497131150511517,
+        "std": 15.553403852240837
+    },
+    "shift_10_days_relativeHumidity_05020": {
+        "mean": 88.40124246122483,
+        "std": 8.343249886342766
+    },
+    "windDirection_05020": {
+        "mean": 141.0734229978029,
+        "std": 62.04710246269644
+    },
+    "shift_10_days_airTemperature_min_05020": {
+        "mean": -3.8967958961621902,
+        "std": 15.376053677172232
+    },
+    "shift_10_days_windDirection_05020": {
+        "mean": 140.97650205701194,
+        "std": 62.040254903737655
+    },
+    "accumulate_3_days_relativeHumidity_sum_05020": {
+        "mean": 88.39923044792532,
+        "std": 6.898647156463994
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05020": {
+        "mean": 1.8392099115749942,
+        "std": 2.221579991507469
+    },
+    "shift_1_days_pressure_05020": {
+        "mean": 978.4647995561559,
+        "std": 7.1490687473630965
+    },
+    "demodule_diff_05020": {
+        "mean": 197.78799246230682,
+        "std": 107.6794700116202
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05020": {
+        "mean": 1.8392171685750036,
+        "std": 4.0543374255968985
+    },
+    "shift_10_days_soilTemperature_05020": {
+        "mean": 1.2432743720099204,
+        "std": 17.483785334270618
+    },
+    "perc_days_05020": {
+        "mean": 0.6084206551496271,
+        "std": 1.591545855368221
+    },
+    "shift_10_days_maximumWindGustSpeed_05020": {
+        "mean": 8.495282043339213,
+        "std": 3.0359471825283744
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05020": {
+        "mean": 1.839358458209671,
+        "std": 4.054342341083551
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05020": {
+        "mean": 1.839273334357073,
+        "std": 2.2215555456356486
+    },
+    "windSpeed_05020": {
+        "mean": 5.281113435949809,
+        "std": 1.911964286856823
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05020": {
+        "mean": 1.8394386090576322,
+        "std": 2.9192835668094417
+    },
+    "accumulate_45_days_relativeHumidity_sum_05020": {
+        "mean": 88.39531990714309,
+        "std": 4.233797596165741
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05020": {
+        "mean": 1.8382314866936365,
+        "std": 1.4724010483067513
+    },
+    "shift_1_days_windSpeed_05020": {
+        "mean": 5.2807683899950755,
+        "std": 1.9122265848872533
+    },
+    "shift_10_days_sin_day_of_year_05024": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05024": {
+        "mean": 1.8633681329898761,
+        "std": 2.993571228485679
+    },
+    "pressure_05024": {
+        "mean": 991.8370368414965,
+        "std": 9.922733753047646
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05024": {
+        "mean": 88.36346491871619,
+        "std": 6.915240653760087
+    },
+    "airTemperature_min_05024": {
+        "mean": -4.331780778254239,
+        "std": 15.899463424512865
+    },
+    "airTemperature_max_05024": {
+        "mean": 4.699881645281952,
+        "std": 15.691157426496133
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05024": {
+        "mean": 88.36318101361475,
+        "std": 5.851256228776122
+    },
+    "shift_1_days_airTemperature_min_05024": {
+        "mean": -4.331781501664642,
+        "std": 15.899464301937265
+    },
+    "cos_day_of_year_05024": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05024": {
+        "mean": 1.8639280224133066,
+        "std": 4.1922145121876175
+    },
+    "shift_10_days_pressure_05024": {
+        "mean": 991.8366752432737,
+        "std": 9.914776170664304
+    },
+    "shift_10_days_windSpeed_05024": {
+        "mean": 5.273620135309218,
+        "std": 1.9260196457114411
+    },
+    "sin_day_of_year_05024": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05024": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05024": {
+        "mean": 4.699774424849752,
+        "std": 15.69131941386693
+    },
+    "relativeHumidity_05024": {
+        "mean": 88.36113147993493,
+        "std": 8.383243950727937
+    },
+    "accumulate_7_days_relativeHumidity_sum_05024": {
+        "mean": 88.36174665831193,
+        "std": 5.852036761594052
+    },
+    "shift_1_days_windDirection_05024": {
+        "mean": 139.36837776582547,
+        "std": 63.32286105458672
+    },
+    "shift_1_days_relativeHumidity_05024": {
+        "mean": 88.36097171602643,
+        "std": 8.383253244553119
+    },
+    "shift_10_days_airTemperature_max_05024": {
+        "mean": 4.702760348134614,
+        "std": 15.68624871665723
+    },
+    "shift_10_days_relativeHumidity_05024": {
+        "mean": 88.3633976253002,
+        "std": 8.381995432175987
+    },
+    "windDirection_05024": {
+        "mean": 139.38265041099828,
+        "std": 63.3259535868287
+    },
+    "shift_10_days_airTemperature_min_05024": {
+        "mean": -4.324211240320398,
+        "std": 15.887936095604237
+    },
+    "shift_10_days_windDirection_05024": {
+        "mean": 139.28601681991773,
+        "std": 63.317545267404036
+    },
+    "accumulate_3_days_relativeHumidity_sum_05024": {
+        "mean": 88.36102828803136,
+        "std": 6.916352087934334
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05024": {
+        "mean": 1.8633637101010228,
+        "std": 2.264760408127538
+    },
+    "shift_1_days_pressure_05024": {
+        "mean": 991.838993066312,
+        "std": 9.920820650728876
+    },
+    "demodule_diff_05024": {
+        "mean": 195.6129088886006,
+        "std": 118.09428362644307
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05024": {
+        "mean": 1.863344135591552,
+        "std": 4.191921065353047
+    },
+    "shift_10_days_soilTemperature_05024": {
+        "mean": 0.2658601487054223,
+        "std": 17.946278410312754
+    },
+    "perc_days_05024": {
+        "mean": 0.6084206551496271,
+        "std": 1.591545855368221
+    },
+    "shift_10_days_maximumWindGustSpeed_05024": {
+        "mean": 8.437768561020409,
+        "std": 3.095535257333209
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05024": {
+        "mean": 1.863320317776008,
+        "std": 4.1919715102226185
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05024": {
+        "mean": 1.8632913782919323,
+        "std": 2.2648405692891855
+    },
+    "windSpeed_05024": {
+        "mean": 5.276770781262222,
+        "std": 1.9241880066281896
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05024": {
+        "mean": 1.863462621949545,
+        "std": 2.9936418233285784
+    },
+    "accumulate_45_days_relativeHumidity_sum_05024": {
+        "mean": 88.35757167245545,
+        "std": 4.247410046026264
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05024": {
+        "mean": 1.8622456867394561,
+        "std": 1.492135081755632
+    },
+    "shift_1_days_windSpeed_05024": {
+        "mean": 5.276422883709591,
+        "std": 1.9244472763941072
+    },
+    "shift_10_days_sin_day_of_year_05026": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05026": {
+        "mean": 1.7438476258174962,
+        "std": 2.9334192585273833
+    },
+    "pressure_05026": {
+        "mean": 1000.9338061224086,
+        "std": 14.22395498586354
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05026": {
+        "mean": 89.18037092840979,
+        "std": 6.563296937509378
+    },
+    "airTemperature_min_05026": {
+        "mean": -5.408633377602626,
+        "std": 16.653052547107524
+    },
+    "airTemperature_max_05026": {
+        "mean": 4.616163442754101,
+        "std": 15.839806131970159
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05026": {
+        "mean": 89.18030786206994,
+        "std": 5.693976331222136
+    },
+    "shift_1_days_airTemperature_min_05026": {
+        "mean": -5.408649202944891,
+        "std": 16.65306763150957
+    },
+    "cos_day_of_year_05026": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05026": {
+        "mean": 1.7442709809361334,
+        "std": 4.157470724193008
+    },
+    "shift_10_days_pressure_05026": {
+        "mean": 1000.9293669992423,
+        "std": 14.21365676968067
+    },
+    "shift_10_days_windSpeed_05026": {
+        "mean": 4.777985797853323,
+        "std": 1.9595418800535729
+    },
+    "sin_day_of_year_05026": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05026": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05026": {
+        "mean": 4.6162743138231495,
+        "std": 15.839651453814023
+    },
+    "relativeHumidity_05026": {
+        "mean": 89.17641857699608,
+        "std": 7.9344835941158145
+    },
+    "accumulate_7_days_relativeHumidity_sum_05026": {
+        "mean": 89.17743324188245,
+        "std": 5.695237043950532
+    },
+    "shift_1_days_windDirection_05026": {
+        "mean": 150.60891907682608,
+        "std": 71.24517739245424
+    },
+    "shift_1_days_relativeHumidity_05026": {
+        "mean": 89.17648101062487,
+        "std": 7.934476740719101
+    },
+    "shift_10_days_airTemperature_max_05026": {
+        "mean": 4.621848095426065,
+        "std": 15.830805298050594
+    },
+    "shift_10_days_relativeHumidity_05026": {
+        "mean": 89.18027944268289,
+        "std": 7.932985743302932
+    },
+    "windDirection_05026": {
+        "mean": 150.62420089517752,
+        "std": 71.25954645435661
+    },
+    "shift_10_days_airTemperature_min_05026": {
+        "mean": -5.396451200620924,
+        "std": 16.63582339422488
+    },
+    "shift_10_days_windDirection_05026": {
+        "mean": 150.59608446921044,
+        "std": 71.22327970413333
+    },
+    "accumulate_3_days_relativeHumidity_sum_05026": {
+        "mean": 89.17658686901021,
+        "std": 6.564949389172597
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05026": {
+        "mean": 1.7438536172697694,
+        "std": 2.179216148337299
+    },
+    "shift_1_days_pressure_05026": {
+        "mean": 1000.9358387306286,
+        "std": 14.2214878538333
+    },
+    "demodule_diff_05026": {
+        "mean": 192.46056372154956,
+        "std": 160.30504992303787
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05026": {
+        "mean": 1.743807526012639,
+        "std": 4.156874731171716
+    },
+    "shift_10_days_soilTemperature_05026": {
+        "mean": -0.16996103643887225,
+        "std": 17.992300024063884
+    },
+    "perc_days_05026": {
+        "mean": 0.8223355045784952,
+        "std": 1.9280299314338603
+    },
+    "shift_10_days_maximumWindGustSpeed_05026": {
+        "mean": 7.541886558085744,
+        "std": 3.2390201515216925
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05026": {
+        "mean": 1.7435280957129378,
+        "std": 4.156988105063411
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05026": {
+        "mean": 1.7435750185123964,
+        "std": 2.179429400137806
+    },
+    "windSpeed_05026": {
+        "mean": 4.780466052709013,
+        "std": 1.9584357367317413
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05026": {
+        "mean": 1.7437398540613849,
+        "std": 2.9336160910753737
+    },
+    "accumulate_45_days_relativeHumidity_sum_05026": {
+        "mean": 89.1722916105771,
+        "std": 4.374955187810179
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05026": {
+        "mean": 1.7425198440958796,
+        "std": 1.3786263366038807
+    },
+    "shift_1_days_windSpeed_05026": {
+        "mean": 4.779999324175319,
+        "std": 1.9585091927826652
+    },
+    "shift_10_days_sin_day_of_year_05029": {
+        "mean": -0.0005910348919704756,
+        "std": 0.7076295345687856
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05029": {
+        "mean": 1.4908699467179205,
+        "std": 2.576418174331077
+    },
+    "pressure_05029": {
+        "mean": 1008.6637228083272,
+        "std": 7.691639240575625
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05029": {
+        "mean": 89.09500644840129,
+        "std": 6.013730320914308
+    },
+    "airTemperature_min_05029": {
+        "mean": -5.408059973926478,
+        "std": 16.399071335079636
+    },
+    "airTemperature_max_05029": {
+        "mean": 4.456650063795161,
+        "std": 15.821243302479044
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05029": {
+        "mean": 89.10183182663647,
+        "std": 5.3997821189035795
+    },
+    "shift_1_days_airTemperature_min_05029": {
+        "mean": -5.363045038841165,
+        "std": 16.382975033636633
+    },
+    "cos_day_of_year_05029": {
+        "mean": 0.0007062912827310359,
+        "std": 0.7073585273999987
+    },
+    "totalAccumulatedPrecipitation_05029": {
+        "mean": 1.4913967859181327,
+        "std": 3.713997463662832
+    },
+    "shift_10_days_pressure_05029": {
+        "mean": 1008.671674506698,
+        "std": 7.690653089660292
+    },
+    "shift_10_days_windSpeed_05029": {
+        "mean": 4.229320577386632,
+        "std": 1.7251821665583627
+    },
+    "sin_day_of_year_05029": {
+        "mean": 6.160271283688063e-05,
+        "std": 0.7068255226919263
+    },
+    "shift_10_days_cos_day_of_year_05029": {
+        "mean": -0.00023665642159162703,
+        "std": 0.7066500569045311
+    },
+    "shift_1_days_airTemperature_max_05029": {
+        "mean": 4.489976783982311,
+        "std": 15.80040363266491
+    },
+    "relativeHumidity_05029": {
+        "mean": 89.05946912715363,
+        "std": 7.075848010840309
+    },
+    "accumulate_7_days_relativeHumidity_sum_05029": {
+        "mean": 89.07912409835461,
+        "std": 5.413120541361021
+    },
+    "shift_1_days_windDirection_05029": {
+        "mean": 127.59740979540436,
+        "std": 69.5785138413974
+    },
+    "shift_1_days_relativeHumidity_05029": {
+        "mean": 89.08275409406296,
+        "std": 7.058179608554613
+    },
+    "shift_10_days_airTemperature_max_05029": {
+        "mean": 4.492595824261881,
+        "std": 15.78997120807392
+    },
+    "shift_10_days_relativeHumidity_05029": {
+        "mean": 89.10340718787809,
+        "std": 7.044011288612639
+    },
+    "windDirection_05029": {
+        "mean": 127.44689905335576,
+        "std": 69.50249344746855
+    },
+    "shift_10_days_airTemperature_min_05029": {
+        "mean": -5.366384106434491,
+        "std": 16.364286278108285
+    },
+    "shift_10_days_windDirection_05029": {
+        "mean": 127.37280574613474,
+        "std": 69.41816276277471
+    },
+    "accumulate_3_days_relativeHumidity_sum_05029": {
+        "mean": 89.07977026210902,
+        "std": 6.025156180240992
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05029": {
+        "mean": 1.4928882334401123,
+        "std": 1.8621119268035387
+    },
+    "shift_1_days_pressure_05029": {
+        "mean": 1008.6619807632305,
+        "std": 7.6911541005216515
+    },
+    "demodule_diff_05029": {
+        "mean": 195.08652044377124,
+        "std": 129.93940686641878
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05029": {
+        "mean": 1.4906251182774508,
+        "std": 3.713120553654924
+    },
+    "shift_10_days_soilTemperature_05029": {
+        "mean": -0.5026999868461501,
+        "std": 17.984275047383804
+    },
+    "perc_days_05029": {
+        "mean": 0.9780987444538847,
+        "std": 2.1333233763518
+    },
+    "shift_10_days_maximumWindGustSpeed_05029": {
+        "mean": 7.381026233088311,
+        "std": 2.955380523633936
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05029": {
+        "mean": 1.491739933652912,
+        "std": 3.712766117165102
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05029": {
+        "mean": 1.4907275401732052,
+        "std": 1.8631879341590412
+    },
+    "windSpeed_05029": {
+        "mean": 4.231248144303573,
+        "std": 1.7258184202844549
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05029": {
+        "mean": 1.4914371827773463,
+        "std": 2.576345625200946
+    },
+    "accumulate_45_days_relativeHumidity_sum_05029": {
+        "mean": 89.07846742250726,
+        "std": 4.470932185675878
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05029": {
+        "mean": 1.4908743127930708,
+        "std": 1.0921921280976037
+    },
+    "shift_1_days_windSpeed_05029": {
+        "mean": 4.232323895992282,
+        "std": 1.7257546671126982
+    },
+    "shift_10_days_sin_day_of_year_05031": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05031": {
+        "mean": 1.5515294396094461,
+        "std": 2.6629201157693414
+    },
+    "pressure_05031": {
+        "mean": 1008.1723405653578,
+        "std": 7.600186798397335
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05031": {
+        "mean": 88.95668409055249,
+        "std": 5.969772587586786
+    },
+    "airTemperature_min_05031": {
+        "mean": -5.308367638282511,
+        "std": 16.045464123240247
+    },
+    "airTemperature_max_05031": {
+        "mean": 4.109888563797027,
+        "std": 15.775768908989203
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05031": {
+        "mean": 88.95709978974713,
+        "std": 5.347098172570171
+    },
+    "shift_1_days_airTemperature_min_05031": {
+        "mean": -5.308320226895313,
+        "std": 16.04541601187383
+    },
+    "cos_day_of_year_05031": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05031": {
+        "mean": 1.5523122909218643,
+        "std": 3.8540507566200364
+    },
+    "shift_10_days_pressure_05031": {
+        "mean": 1008.1747396187187,
+        "std": 7.598269026266183
+    },
+    "shift_10_days_windSpeed_05031": {
+        "mean": 4.157338166724295,
+        "std": 1.7553114284375095
+    },
+    "sin_day_of_year_05031": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05031": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05031": {
+        "mean": 4.1091316032696374,
+        "std": 15.776537465207639
+    },
+    "relativeHumidity_05031": {
+        "mean": 88.95181306209547,
+        "std": 7.013374683062481
+    },
+    "accumulate_7_days_relativeHumidity_sum_05031": {
+        "mean": 88.9523701527397,
+        "std": 5.352081259430049
+    },
+    "shift_1_days_windDirection_05031": {
+        "mean": 127.95711217907022,
+        "std": 70.64835450389087
+    },
+    "shift_1_days_relativeHumidity_05031": {
+        "mean": 88.95129004691768,
+        "std": 7.013392077394638
+    },
+    "shift_10_days_airTemperature_max_05031": {
+        "mean": 4.116939136637293,
+        "std": 15.764179079862599
+    },
+    "shift_10_days_relativeHumidity_05031": {
+        "mean": 88.95634150008786,
+        "std": 7.0089363928178905
+    },
+    "windDirection_05031": {
+        "mean": 127.96489529290223,
+        "std": 70.6538553265353
+    },
+    "shift_10_days_airTemperature_min_05031": {
+        "mean": -5.296710276620288,
+        "std": 16.02851420538783
+    },
+    "shift_10_days_windDirection_05031": {
+        "mean": 128.0029548737848,
+        "std": 70.62106762580999
+    },
+    "accumulate_3_days_relativeHumidity_sum_05031": {
+        "mean": 88.9516110720611,
+        "std": 5.974871716229268
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05031": {
+        "mean": 1.5515189648336964,
+        "std": 1.9200425947061392
+    },
+    "shift_1_days_pressure_05031": {
+        "mean": 1008.1742241239994,
+        "std": 7.599446236058629
+    },
+    "demodule_diff_05031": {
+        "mean": 196.9503844879039,
+        "std": 121.33922650784416
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05031": {
+        "mean": 1.5515066906493427,
+        "std": 3.8531448795628336
+    },
+    "shift_10_days_soilTemperature_05031": {
+        "mean": -0.7668784765301743,
+        "std": 18.008605189815995
+    },
+    "perc_days_05031": {
+        "mean": 0.9992447842915133,
+        "std": 2.1570248554845173
+    },
+    "shift_10_days_maximumWindGustSpeed_05031": {
+        "mean": 7.395396458256313,
+        "std": 2.996620808355474
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05031": {
+        "mean": 1.5513923552469822,
+        "std": 3.8531889531496306
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05031": {
+        "mean": 1.5514804465412644,
+        "std": 1.920121553869602
+    },
+    "windSpeed_05031": {
+        "mean": 4.158227368646286,
+        "std": 1.7562475451135273
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05031": {
+        "mean": 1.5516900368376,
+        "std": 2.663044052656275
+    },
+    "accumulate_45_days_relativeHumidity_sum_05031": {
+        "mean": 88.94900523293205,
+        "std": 4.400720235747097
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05031": {
+        "mean": 1.5505298691605025,
+        "std": 1.1084088049682204
+    },
+    "shift_1_days_windSpeed_05031": {
+        "mean": 4.157576036005675,
+        "std": 1.755644647624751
+    },
+    "shift_10_days_sin_day_of_year_05033": {
+        "mean": -0.0010603938272649453,
+        "std": 0.7068072111298822
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05033": {
+        "mean": 1.5882102036080026,
+        "std": 2.7974727323079596
+    },
+    "pressure_05033": {
+        "mean": 1007.4501633931893,
+        "std": 7.593901843708917
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05033": {
+        "mean": 88.81329156372799,
+        "std": 6.060084526027455
+    },
+    "airTemperature_min_05033": {
+        "mean": -5.272245250094338,
+        "std": 15.767535786842242
+    },
+    "airTemperature_max_05033": {
+        "mean": 3.755033193221543,
+        "std": 15.793069995134944
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05033": {
+        "mean": 88.81532841393049,
+        "std": 5.390019045255013
+    },
+    "shift_1_days_airTemperature_min_05033": {
+        "mean": -5.2964937870874005,
+        "std": 15.78092332292794
+    },
+    "cos_day_of_year_05033": {
+        "mean": 0.000698733692860965,
+        "std": 0.7073033268366702
+    },
+    "totalAccumulatedPrecipitation_05033": {
+        "mean": 1.6187818533863982,
+        "std": 4.099529375055145
+    },
+    "shift_10_days_pressure_05033": {
+        "mean": 1007.4791700490041,
+        "std": 7.498700745982875
+    },
+    "shift_10_days_windSpeed_05033": {
+        "mean": 4.06638719237374,
+        "std": 1.8605949842235898
+    },
+    "sin_day_of_year_05033": {
+        "mean": -4.923135702871799e-05,
+        "std": 0.706781818718037
+    },
+    "shift_10_days_cos_day_of_year_05033": {
+        "mean": 0.0020712432636817955,
+        "std": 0.7074689171436043
+    },
+    "shift_1_days_airTemperature_max_05033": {
+        "mean": 3.7242706225860758,
+        "std": 15.814815813023039
+    },
+    "relativeHumidity_05033": {
+        "mean": 88.85767024186605,
+        "std": 7.209169648883403
+    },
+    "accumulate_7_days_relativeHumidity_sum_05033": {
+        "mean": 88.85879379136178,
+        "std": 5.390479841436116
+    },
+    "shift_1_days_windDirection_05033": {
+        "mean": 129.48312847161017,
+        "std": 74.18998680568554
+    },
+    "shift_1_days_relativeHumidity_05033": {
+        "mean": 88.84136103606504,
+        "std": 7.203671025965008
+    },
+    "shift_10_days_airTemperature_max_05033": {
+        "mean": 3.703535203538891,
+        "std": 15.849254518036526
+    },
+    "shift_10_days_relativeHumidity_05033": {
+        "mean": 88.81138112902454,
+        "std": 7.213816132635286
+    },
+    "windDirection_05033": {
+        "mean": 129.22599818705118,
+        "std": 74.15021265253394
+    },
+    "shift_10_days_airTemperature_min_05033": {
+        "mean": -5.343614256341149,
+        "std": 15.845694559892312
+    },
+    "shift_10_days_windDirection_05033": {
+        "mean": 129.2930917225798,
+        "std": 74.08061246475046
+    },
+    "accumulate_3_days_relativeHumidity_sum_05033": {
+        "mean": 88.85629164915498,
+        "std": 6.056639126749463
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05033": {
+        "mean": 1.588866440333309,
+        "std": 2.0071794330885537
+    },
+    "shift_1_days_pressure_05033": {
+        "mean": 1007.4551256034418,
+        "std": 7.5644286493308295
+    },
+    "demodule_diff_05033": {
+        "mean": 200.09793454005825,
+        "std": 94.20804573376154
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05033": {
+        "mean": 1.5886946104976316,
+        "std": 4.084123025645191
+    },
+    "shift_10_days_soilTemperature_05033": {
+        "mean": -1.0889334831266235,
+        "std": 18.139334424334578
+    },
+    "perc_days_05033": {
+        "mean": 1.1215897290663646,
+        "std": 2.29090445957813
+    },
+    "shift_10_days_maximumWindGustSpeed_05033": {
+        "mean": 7.3612648182291975,
+        "std": 3.172259946175992
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05033": {
+        "mean": 1.6193938350572967,
+        "std": 4.097899740251635
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05033": {
+        "mean": 1.6040305641504677,
+        "std": 2.0137545008328464
+    },
+    "windSpeed_05033": {
+        "mean": 4.076293346191677,
+        "std": 1.8726168130140088
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05033": {
+        "mean": 1.6117521703734208,
+        "std": 2.80958771441252
+    },
+    "accumulate_45_days_relativeHumidity_sum_05033": {
+        "mean": 88.82782187214701,
+        "std": 4.3884192480776285
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05033": {
+        "mean": 1.59475153162931,
+        "std": 1.1329124333035643
+    },
+    "shift_1_days_windSpeed_05033": {
+        "mean": 4.081230501335382,
+        "std": 1.8823296283016102
+    },
+    "shift_10_days_sin_day_of_year_05044": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05044": {
+        "mean": 1.8470020608665443,
+        "std": 3.5836055468356864
+    },
+    "pressure_05044": {
+        "mean": 1004.4394257397928,
+        "std": 8.091979346869577
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05044": {
+        "mean": 86.13860217548543,
+        "std": 9.207598525948756
+    },
+    "airTemperature_min_05044": {
+        "mean": -2.032527538922428,
+        "std": 15.077569642017695
+    },
+    "airTemperature_max_05044": {
+        "mean": 7.478161086395066,
+        "std": 15.373744886204062
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05044": {
+        "mean": 86.13833316627613,
+        "std": 8.109461530937986
+    },
+    "shift_1_days_airTemperature_min_05044": {
+        "mean": -2.0320269274066116,
+        "std": 15.076750886643879
+    },
+    "cos_day_of_year_05044": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05044": {
+        "mean": 1.8472245383230235,
+        "std": 5.156665743427076
+    },
+    "shift_10_days_pressure_05044": {
+        "mean": 1004.4397671685845,
+        "std": 8.089991597118203
+    },
+    "shift_10_days_windSpeed_05044": {
+        "mean": 4.021988240930327,
+        "std": 1.78218046095503
+    },
+    "sin_day_of_year_05044": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05044": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05044": {
+        "mean": 7.478597862463239,
+        "std": 15.372952257029018
+    },
+    "relativeHumidity_05044": {
+        "mean": 86.13579851285918,
+        "std": 10.769985857107846
+    },
+    "accumulate_7_days_relativeHumidity_sum_05044": {
+        "mean": 86.13579587786926,
+        "std": 8.111367022340804
+    },
+    "shift_1_days_windDirection_05044": {
+        "mean": 150.60706153591192,
+        "std": 76.71283537913787
+    },
+    "shift_1_days_relativeHumidity_05044": {
+        "mean": 86.13552264837931,
+        "std": 10.770047339929343
+    },
+    "shift_10_days_airTemperature_max_05044": {
+        "mean": 7.48050279190028,
+        "std": 15.369578894800716
+    },
+    "shift_10_days_relativeHumidity_05044": {
+        "mean": 86.13864778162967,
+        "std": 10.767344151560616
+    },
+    "windDirection_05044": {
+        "mean": 150.60699628164244,
+        "std": 76.71274332025864
+    },
+    "shift_10_days_airTemperature_min_05044": {
+        "mean": -2.0285462211697127,
+        "std": 15.07111125309842
+    },
+    "shift_10_days_windDirection_05044": {
+        "mean": 150.66934415100224,
+        "std": 76.74093985351838
+    },
+    "accumulate_3_days_relativeHumidity_sum_05044": {
+        "mean": 86.13544458019607,
+        "std": 9.210118026335339
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05044": {
+        "mean": 1.8470253886760903,
+        "std": 2.7109732114894864
+    },
+    "shift_1_days_pressure_05044": {
+        "mean": 1004.4407084706673,
+        "std": 8.092264094496297
+    },
+    "demodule_diff_05044": {
+        "mean": 203.55786471118296,
+        "std": 49.989272733240014
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05044": {
+        "mean": 1.8469979315993983,
+        "std": 5.156718671510823
+    },
+    "shift_10_days_soilTemperature_05044": {
+        "mean": 2.975279552224906,
+        "std": 16.89159219825448
+    },
+    "perc_days_05044": {
+        "mean": 1.5941659586519399,
+        "std": 3.080158941149195
+    },
+    "shift_10_days_maximumWindGustSpeed_05044": {
+        "mean": 6.990453436428501,
+        "std": 2.750585661303256
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05044": {
+        "mean": 1.84719973881953,
+        "std": 5.156673996142745
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05044": {
+        "mean": 1.847094943888018,
+        "std": 2.7109295679378858
+    },
+    "windSpeed_05044": {
+        "mean": 4.021591515521982,
+        "std": 1.7825347231358355
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05044": {
+        "mean": 1.8471594634766817,
+        "std": 3.5835398465644173
+    },
+    "accumulate_45_days_relativeHumidity_sum_05044": {
+        "mean": 86.13060113194977,
+        "std": 6.48271522006178
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05044": {
+        "mean": 1.8464123085179094,
+        "std": 1.783450171889816
+    },
+    "shift_1_days_windSpeed_05044": {
+        "mean": 4.021639151463899,
+        "std": 1.7825141267041091
+    },
+    "shift_10_days_sin_day_of_year_05336": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05336": {
+        "mean": 1.9175959471290944,
+        "std": 3.1326622845632532
+    },
+    "pressure_05336": {
+        "mean": 1002.708367018919,
+        "std": 7.6220911917381065
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05336": {
+        "mean": 89.51815167606995,
+        "std": 6.955100016836066
+    },
+    "airTemperature_min_05336": {
+        "mean": -3.099396169694909,
+        "std": 15.741322550501446
+    },
+    "shift_10_days_water_flow_05336": {
+        "mean": 247.68617483243892,
+        "std": 266.3600748718285
+    },
+    "airTemperature_max_05336": {
+        "mean": 7.392248291797997,
+        "std": 15.385229923965465
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05336": {
+        "mean": 89.51762216840719,
+        "std": 6.103779927380095
+    },
+    "shift_1_days_airTemperature_min_05336": {
+        "mean": -3.099097329718754,
+        "std": 15.740849268945215
+    },
+    "cos_day_of_year_05336": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05336": {
+        "mean": 1.9184282403303508,
+        "std": 4.470299859926199
+    },
+    "shift_10_days_pressure_05336": {
+        "mean": 1002.7096418251283,
+        "std": 7.62077145436421
+    },
+    "shift_10_days_windSpeed_05336": {
+        "mean": 4.086148650007675,
+        "std": 1.5181061911830467
+    },
+    "sin_day_of_year_05336": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05336": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05336": {
+        "mean": 7.3922138340738845,
+        "std": 15.385291488061286
+    },
+    "relativeHumidity_05336": {
+        "mean": 89.51724465336518,
+        "std": 8.304456701610498
+    },
+    "accumulate_7_days_relativeHumidity_sum_05336": {
+        "mean": 89.51700638177967,
+        "std": 6.104878724099551
+    },
+    "shift_1_days_windDirection_05336": {
+        "mean": 120.06434522375552,
+        "std": 57.3133289201426
+    },
+    "shift_1_days_relativeHumidity_05336": {
+        "mean": 89.51676291071772,
+        "std": 8.304687395236384
+    },
+    "shift_30_days_water_flow_05336": {
+        "mean": 247.59593599547108,
+        "std": 266.4240462318492
+    },
+    "shift_10_days_airTemperature_max_05336": {
+        "mean": 7.391798640609951,
+        "std": 15.385899226718234
+    },
+    "shift_10_days_relativeHumidity_05336": {
+        "mean": 89.51820765290311,
+        "std": 8.302207969739333
+    },
+    "windDirection_05336": {
+        "mean": 120.07295117498523,
+        "std": 57.31428190926944
+    },
+    "shift_10_days_airTemperature_min_05336": {
+        "mean": -3.097017492705531,
+        "std": 15.737114451676941
+    },
+    "shift_10_days_windDirection_05336": {
+        "mean": 120.02142632694873,
+        "std": 57.29689436669543
+    },
+    "shift_20_days_water_flow_05336": {
+        "mean": 247.6270225620717,
+        "std": 266.4009848450736
+    },
+    "accumulate_3_days_relativeHumidity_sum_05336": {
+        "mean": 89.51673743602886,
+        "std": 6.957104913281883
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05336": {
+        "mean": 1.9175965695626214,
+        "std": 2.3650452297068933
+    },
+    "shift_1_days_pressure_05336": {
+        "mean": 1002.709765897793,
+        "std": 7.622383431240471
+    },
+    "demodule_diff_05336": {
+        "mean": 210.32728117061407,
+        "std": 50.35216045274791
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05336": {
+        "mean": 1.9176025668899281,
+        "std": 4.470309674896127
+    },
+    "shift_10_days_soilTemperature_05336": {
+        "mean": 1.8296379094958475,
+        "std": 17.952628476230558
+    },
+    "perc_days_05336": {
+        "mean": 0.8169545926555273,
+        "std": 1.8333123757053509
+    },
+    "shift_10_days_maximumWindGustSpeed_05336": {
+        "mean": 7.763012853734915,
+        "std": 2.512893663408621
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05336": {
+        "mean": 1.9182734470145952,
+        "std": 4.470337900760925
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05336": {
+        "mean": 1.9179604407360031,
+        "std": 2.3647998768932785
+    },
+    "windSpeed_05336": {
+        "mean": 4.0880585728542576,
+        "std": 1.5166341623294943
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05336": {
+        "mean": 1.9181579788392071,
+        "std": 3.132456274356627
+    },
+    "accumulate_45_days_relativeHumidity_sum_05336": {
+        "mean": 89.51035128353223,
+        "std": 4.954374300399794
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05336": {
+        "mean": 1.9171584027834783,
+        "std": 1.5522357230262798
+    },
+    "shift_1_days_windSpeed_05336": {
+        "mean": 4.087861164575598,
+        "std": 1.5168132352927934
+    },
+    "shift_10_days_sin_day_of_year_05352": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05352": {
+        "mean": 1.780759732802867,
+        "std": 3.1903374022700532
+    },
+    "pressure_05352": {
+        "mean": 1004.1444284876605,
+        "std": 7.6629202998981105
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05352": {
+        "mean": 87.0962799842037,
+        "std": 8.453599235861708
+    },
+    "airTemperature_min_05352": {
+        "mean": -1.9467420784711937,
+        "std": 15.281975099184708
+    },
+    "shift_10_days_water_flow_05352": {
+        "mean": 5.8316285754743635,
+        "std": 8.833497873790526
+    },
+    "airTemperature_max_05352": {
+        "mean": 6.984910337949746,
+        "std": 15.552418586860417
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05352": {
+        "mean": 87.0967251492311,
+        "std": 7.202719673893983
+    },
+    "shift_1_days_airTemperature_min_05352": {
+        "mean": -1.9462327960068535,
+        "std": 15.281127513174086
+    },
+    "cos_day_of_year_05352": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05352": {
+        "mean": 1.7813897400723282,
+        "std": 4.6393987369317236
+    },
+    "shift_10_days_pressure_05352": {
+        "mean": 1004.1460652274544,
+        "std": 7.661895452912759
+    },
+    "shift_10_days_windSpeed_05352": {
+        "mean": 4.478876499131239,
+        "std": 1.636538759394668
+    },
+    "sin_day_of_year_05352": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05352": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05352": {
+        "mean": 6.985000714286286,
+        "std": 15.552257907511864
+    },
+    "relativeHumidity_05352": {
+        "mean": 87.08923286964561,
+        "std": 10.29826690982343
+    },
+    "accumulate_7_days_relativeHumidity_sum_05352": {
+        "mean": 87.09039926019575,
+        "std": 7.207880470779513
+    },
+    "shift_1_days_windDirection_05352": {
+        "mean": 150.56539365614697,
+        "std": 57.79073969869543
+    },
+    "shift_1_days_relativeHumidity_05352": {
+        "mean": 87.08908814469699,
+        "std": 10.298284786984924
+    },
+    "shift_30_days_water_flow_05352": {
+        "mean": 5.8285151987161266,
+        "std": 8.835075848627218
+    },
+    "shift_10_days_airTemperature_max_05352": {
+        "mean": 6.985364555908969,
+        "std": 15.551531385579668
+    },
+    "shift_10_days_relativeHumidity_05352": {
+        "mean": 87.09564859118578,
+        "std": 10.29316923206918
+    },
+    "windDirection_05352": {
+        "mean": 150.5659791681717,
+        "std": 57.790824495995565
+    },
+    "shift_10_days_airTemperature_min_05352": {
+        "mean": -1.9436884804403267,
+        "std": 15.27689324756184
+    },
+    "shift_10_days_windDirection_05352": {
+        "mean": 150.56135957256066,
+        "std": 57.77182059648728
+    },
+    "shift_20_days_water_flow_05352": {
+        "mean": 5.830488199754549,
+        "std": 8.834111198808639
+    },
+    "accumulate_3_days_relativeHumidity_sum_05352": {
+        "mean": 87.08912297352474,
+        "std": 8.459115889041506
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05352": {
+        "mean": 1.780760935161709,
+        "std": 2.3796391264083403
+    },
+    "shift_1_days_pressure_05352": {
+        "mean": 1004.1458799845383,
+        "std": 7.6631808467796105
+    },
+    "demodule_diff_05352": {
+        "mean": 206.94714842265043,
+        "std": 27.511975591178793
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05352": {
+        "mean": 1.7807662132038287,
+        "std": 4.639404867399145
+    },
+    "shift_10_days_soilTemperature_05352": {
+        "mean": 2.3851165962086007,
+        "std": 17.359399044024435
+    },
+    "perc_days_05352": {
+        "mean": 1.0542811290474843,
+        "std": 2.1420871643857784
+    },
+    "shift_10_days_maximumWindGustSpeed_05352": {
+        "mean": 8.477745359699183,
+        "std": 2.780251843121925
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05352": {
+        "mean": 1.7812475482339123,
+        "std": 4.639430252846089
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05352": {
+        "mean": 1.7809783545740885,
+        "std": 2.379504540206895
+    },
+    "windSpeed_05352": {
+        "mean": 4.480912726945493,
+        "std": 1.6352296873787198
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05352": {
+        "mean": 1.781152357293568,
+        "std": 3.1902128921169255
+    },
+    "accumulate_45_days_relativeHumidity_sum_05352": {
+        "mean": 87.09279303320989,
+        "std": 5.412116772458891
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05352": {
+        "mean": 1.780191451265187,
+        "std": 1.5144649252510576
+    },
+    "shift_1_days_windSpeed_05352": {
+        "mean": 4.480722739873207,
+        "std": 1.6354010134260857
+    },
+    "shift_10_days_sin_day_of_year_05354": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05354": {
+        "mean": 1.7770517528690841,
+        "std": 3.4279446203437565
+    },
+    "pressure_05354": {
+        "mean": 1003.4363997622225,
+        "std": 7.593976458110031
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05354": {
+        "mean": 86.02358670953687,
+        "std": 8.990287509504812
+    },
+    "airTemperature_min_05354": {
+        "mean": -1.624315667006586,
+        "std": 15.095861580195187
+    },
+    "shift_10_days_water_flow_05354": {
+        "mean": 8.7258875672614,
+        "std": 17.771099363164005
+    },
+    "airTemperature_max_05354": {
+        "mean": 6.5770202156756685,
+        "std": 15.75262044789601
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05354": {
+        "mean": 86.02388069891111,
+        "std": 7.657800113468858
+    },
+    "shift_1_days_airTemperature_min_05354": {
+        "mean": -1.6240287178606347,
+        "std": 15.0953884083839
+    },
+    "cos_day_of_year_05354": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05354": {
+        "mean": 1.7777167175827417,
+        "std": 4.969070451311228
+    },
+    "shift_10_days_pressure_05354": {
+        "mean": 1003.4388704435263,
+        "std": 7.594416768960782
+    },
+    "shift_10_days_windSpeed_05354": {
+        "mean": 4.359182529214891,
+        "std": 1.6457193493410298
+    },
+    "sin_day_of_year_05354": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05354": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05354": {
+        "mean": 6.576974223695047,
+        "std": 15.752699302527427
+    },
+    "relativeHumidity_05354": {
+        "mean": 86.01812336448164,
+        "std": 10.918871076677691
+    },
+    "accumulate_7_days_relativeHumidity_sum_05354": {
+        "mean": 86.0192190713085,
+        "std": 7.660436160884552
+    },
+    "shift_1_days_windDirection_05354": {
+        "mean": 159.02153445974878,
+        "std": 70.89469455143522
+    },
+    "shift_1_days_relativeHumidity_05354": {
+        "mean": 86.01817002060722,
+        "std": 10.918864141106214
+    },
+    "shift_30_days_water_flow_05354": {
+        "mean": 8.720669781931463,
+        "std": 17.772879790811032
+    },
+    "shift_10_days_airTemperature_max_05354": {
+        "mean": 6.577213033383013,
+        "std": 15.752184941488698
+    },
+    "shift_10_days_relativeHumidity_05354": {
+        "mean": 86.02308056369266,
+        "std": 10.915801352292993
+    },
+    "windDirection_05354": {
+        "mean": 159.0232329413645,
+        "std": 70.89573218165268
+    },
+    "shift_10_days_airTemperature_min_05354": {
+        "mean": -1.622514960484206,
+        "std": 15.092744592749277
+    },
+    "shift_10_days_windDirection_05354": {
+        "mean": 159.03432650197584,
+        "std": 70.86732883191647
+    },
+    "shift_20_days_water_flow_05354": {
+        "mean": 8.723776550552252,
+        "std": 17.77185661201651
+    },
+    "accumulate_3_days_relativeHumidity_sum_05354": {
+        "mean": 86.01804165949113,
+        "std": 8.993271729989415
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05354": {
+        "mean": 1.7770533336723355,
+        "std": 2.5426816746918006
+    },
+    "shift_1_days_pressure_05354": {
+        "mean": 1003.4378944297256,
+        "std": 7.59436328625817
+    },
+    "demodule_diff_05354": {
+        "mean": 207.19612932866033,
+        "std": 25.231978480090095
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05354": {
+        "mean": 1.7770517528691834,
+        "std": 4.969044910173598
+    },
+    "shift_10_days_soilTemperature_05354": {
+        "mean": 2.3714059857165504,
+        "std": 17.139834283675473
+    },
+    "perc_days_05354": {
+        "mean": 1.5520626829038044,
+        "std": 2.8916018332809745
+    },
+    "shift_10_days_maximumWindGustSpeed_05354": {
+        "mean": 8.415985235440434,
+        "std": 2.872639232456463
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05354": {
+        "mean": 1.7775531399792037,
+        "std": 4.969100451505874
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05354": {
+        "mean": 1.7772508481246068,
+        "std": 2.5425733769073555
+    },
+    "windSpeed_05354": {
+        "mean": 4.36085488079472,
+        "std": 1.6450811645635295
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05354": {
+        "mean": 1.777451450516416,
+        "std": 3.4278441997499893
+    },
+    "accumulate_45_days_relativeHumidity_sum_05354": {
+        "mean": 86.01938073781162,
+        "std": 5.710758843417584
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05354": {
+        "mean": 1.7764796758040708,
+        "std": 1.5781465834215502
+    },
+    "shift_1_days_windSpeed_05354": {
+        "mean": 4.360728965466313,
+        "std": 1.6451793953316634
+    },
+    "shift_10_days_sin_day_of_year_05454": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05454": {
+        "mean": 1.4875653324479399,
+        "std": 2.559441645016476
+    },
+    "pressure_05454": {
+        "mean": 1005.9580992027427,
+        "std": 7.4935429027615585
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05454": {
+        "mean": 88.9856853754716,
+        "std": 5.9822553449774745
+    },
+    "airTemperature_min_05454": {
+        "mean": -5.888621204339854,
+        "std": 16.168591529977594
+    },
+    "airTemperature_max_05454": {
+        "mean": 3.938547751796811,
+        "std": 16.026257947734255
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05454": {
+        "mean": 88.98617641396802,
+        "std": 5.396171505133975
+    },
+    "shift_1_days_airTemperature_min_05454": {
+        "mean": -5.888519991369369,
+        "std": 16.16849656077559
+    },
+    "cos_day_of_year_05454": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05454": {
+        "mean": 1.4873592584093038,
+        "std": 3.681561891119619
+    },
+    "shift_10_days_pressure_05454": {
+        "mean": 1005.9603077979233,
+        "std": 7.4922534799993965
+    },
+    "shift_10_days_windSpeed_05454": {
+        "mean": 3.9493187193908255,
+        "std": 1.7242399452855535
+    },
+    "sin_day_of_year_05454": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05454": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05454": {
+        "mean": 3.9377816829074037,
+        "std": 16.026972342280747
+    },
+    "relativeHumidity_05454": {
+        "mean": 88.98032158892599,
+        "std": 6.958368468322375
+    },
+    "accumulate_7_days_relativeHumidity_sum_05454": {
+        "mean": 88.98117011428597,
+        "std": 5.401425314724161
+    },
+    "shift_1_days_windDirection_05454": {
+        "mean": 130.88313058723048,
+        "std": 69.66303878815384
+    },
+    "shift_1_days_relativeHumidity_05454": {
+        "mean": 88.9800257120321,
+        "std": 6.958424874811468
+    },
+    "shift_10_days_airTemperature_max_05454": {
+        "mean": 3.947692689195991,
+        "std": 16.011368422350966
+    },
+    "shift_10_days_relativeHumidity_05454": {
+        "mean": 88.98532517822463,
+        "std": 6.9536895463649815
+    },
+    "windDirection_05454": {
+        "mean": 130.88972567878005,
+        "std": 69.66689322268013
+    },
+    "shift_10_days_airTemperature_min_05454": {
+        "mean": -5.8743348373064705,
+        "std": 16.147874405401748
+    },
+    "shift_10_days_windDirection_05454": {
+        "mean": 130.93576612651992,
+        "std": 69.63077244019837
+    },
+    "accumulate_3_days_relativeHumidity_sum_05454": {
+        "mean": 88.98027331273454,
+        "std": 5.98768344745443
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05454": {
+        "mean": 1.4876149206993365,
+        "std": 1.8476565993815297
+    },
+    "shift_1_days_pressure_05454": {
+        "mean": 1005.9598060746868,
+        "std": 7.493102892669506
+    },
+    "demodule_diff_05454": {
+        "mean": 201.5000544012074,
+        "std": 84.25921510374269
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05454": {
+        "mean": 1.487479711493902,
+        "std": 3.680695321757068
+    },
+    "shift_10_days_soilTemperature_05454": {
+        "mean": -1.3447359754850536,
+        "std": 18.424232920317085
+    },
+    "perc_days_05454": {
+        "mean": 1.0067025394128197,
+        "std": 2.167428397253813
+    },
+    "shift_10_days_maximumWindGustSpeed_05454": {
+        "mean": 7.0983743846786,
+        "std": 2.9575134700764103
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05454": {
+        "mean": 1.4866426289837888,
+        "std": 3.6809005296768995
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05454": {
+        "mean": 1.4867839094779511,
+        "std": 1.848072989541635
+    },
+    "windSpeed_05454": {
+        "mean": 3.9500719983132826,
+        "std": 1.7254457925236735
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05454": {
+        "mean": 1.486894356375738,
+        "std": 2.559782915184686
+    },
+    "accumulate_45_days_relativeHumidity_sum_05454": {
+        "mean": 88.9778043292211,
+        "std": 4.481775914574851
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05454": {
+        "mean": 1.4858341036263507,
+        "std": 1.069994149735794
+    },
+    "shift_1_days_windSpeed_05454": {
+        "mean": 3.9494173760027147,
+        "std": 1.7247434040554963
+    },
+    "shift_10_days_sin_day_of_year_05803": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05803": {
+        "mean": 1.5398756465086403,
+        "std": 2.6569354796154485
+    },
+    "pressure_05803": {
+        "mean": 1006.3901518747919,
+        "std": 7.48389082781142
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05803": {
+        "mean": 88.90059755537732,
+        "std": 5.973376592418538
+    },
+    "airTemperature_min_05803": {
+        "mean": -5.65623741981363,
+        "std": 15.963848992872814
+    },
+    "airTemperature_max_05803": {
+        "mean": 3.8073437577340328,
+        "std": 15.936155999573074
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05803": {
+        "mean": 88.90111900669066,
+        "std": 5.359214145418347
+    },
+    "shift_1_days_airTemperature_min_05803": {
+        "mean": -5.656144098905869,
+        "std": 15.963757281053917
+    },
+    "cos_day_of_year_05803": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05803": {
+        "mean": 1.5400984884050724,
+        "std": 3.8446454766041342
+    },
+    "shift_10_days_pressure_05803": {
+        "mean": 1006.3926939871769,
+        "std": 7.482671758715152
+    },
+    "shift_10_days_windSpeed_05803": {
+        "mean": 3.9770526619299775,
+        "std": 1.7858295612848463
+    },
+    "sin_day_of_year_05803": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05803": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05803": {
+        "mean": 3.806344064605671,
+        "std": 15.937025931350915
+    },
+    "relativeHumidity_05803": {
+        "mean": 88.89573117299007,
+        "std": 7.005693548545875
+    },
+    "accumulate_7_days_relativeHumidity_sum_05803": {
+        "mean": 88.89637421445543,
+        "std": 5.364241542311227
+    },
+    "shift_1_days_windDirection_05803": {
+        "mean": 130.3983780339092,
+        "std": 70.59217343131033
+    },
+    "shift_1_days_relativeHumidity_05803": {
+        "mean": 88.8952551382787,
+        "std": 7.0057306934321755
+    },
+    "shift_10_days_airTemperature_max_05803": {
+        "mean": 3.8158544014746663,
+        "std": 15.922009206046512
+    },
+    "shift_10_days_relativeHumidity_05803": {
+        "mean": 88.90023576489455,
+        "std": 7.001307634593295
+    },
+    "windDirection_05803": {
+        "mean": 130.40590957025512,
+        "std": 70.59709807145498
+    },
+    "shift_10_days_airTemperature_min_05803": {
+        "mean": -5.6431566073090424,
+        "std": 15.9447234389332
+    },
+    "shift_10_days_windDirection_05803": {
+        "mean": 130.4511697727588,
+        "std": 70.55938796491358
+    },
+    "accumulate_3_days_relativeHumidity_sum_05803": {
+        "mean": 88.8955579708112,
+        "std": 5.978450111295238
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05803": {
+        "mean": 1.5398980258471582,
+        "std": 1.9130347200349143
+    },
+    "shift_1_days_pressure_05803": {
+        "mean": 1006.3919370269955,
+        "std": 7.483322797707453
+    },
+    "demodule_diff_05803": {
+        "mean": 203.83458296367252,
+        "std": 50.64071107271261
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05803": {
+        "mean": 1.5398179692319407,
+        "std": 3.8437621682628573
+    },
+    "shift_10_days_soilTemperature_05803": {
+        "mean": -1.2808276841954278,
+        "std": 18.304783765188986
+    },
+    "perc_days_05803": {
+        "mean": 1.0642877371849335,
+        "std": 2.2375709927085756
+    },
+    "shift_10_days_maximumWindGustSpeed_05803": {
+        "mean": 7.198514850134571,
+        "std": 3.0408844994825075
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05803": {
+        "mean": 1.5392924385052207,
+        "std": 3.843919362612626
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05803": {
+        "mean": 1.5394212089050996,
+        "std": 1.9133418260337893
+    },
+    "windSpeed_05803": {
+        "mean": 3.977756163152781,
+        "std": 1.7871205816617066
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05803": {
+        "mean": 1.5395727317000658,
+        "std": 2.6571998190407142
+    },
+    "accumulate_45_days_relativeHumidity_sum_05803": {
+        "mean": 88.89313285654433,
+        "std": 4.423826984473796
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05803": {
+        "mean": 1.5384827882631495,
+        "std": 1.0950857374632423
+    },
+    "shift_1_days_windSpeed_05803": {
+        "mean": 3.977089191650462,
+        "std": 1.7864155593133506
+    },
+    "shift_10_days_sin_day_of_year_05805": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_05805": {
+        "mean": 1.572456365793852,
+        "std": 2.7260779601630682
+    },
+    "pressure_05805": {
+        "mean": 1006.7877068681004,
+        "std": 7.495502502736164
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_05805": {
+        "mean": 88.85410175202945,
+        "std": 5.985775321750477
+    },
+    "airTemperature_min_05805": {
+        "mean": -5.497335084862912,
+        "std": 15.86046901184263
+    },
+    "airTemperature_max_05805": {
+        "mean": 3.753788654104995,
+        "std": 15.877853296767821
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_05805": {
+        "mean": 88.85462981740731,
+        "std": 5.347330646153794
+    },
+    "shift_1_days_airTemperature_min_05805": {
+        "mean": -5.4972500012590535,
+        "std": 15.86038298919602
+    },
+    "cos_day_of_year_05805": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_05805": {
+        "mean": 1.5729478331357578,
+        "std": 3.9613290520721933
+    },
+    "shift_10_days_pressure_05805": {
+        "mean": 1006.7904363308012,
+        "std": 7.49426378765969
+    },
+    "shift_10_days_windSpeed_05805": {
+        "mean": 4.006791394407914,
+        "std": 1.8265546805266868
+    },
+    "sin_day_of_year_05805": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_05805": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_05805": {
+        "mean": 3.7526721050259186,
+        "std": 15.878794534960157
+    },
+    "relativeHumidity_05805": {
+        "mean": 88.84951067091103,
+        "std": 7.068644905977879
+    },
+    "accumulate_7_days_relativeHumidity_sum_05805": {
+        "mean": 88.85003447953493,
+        "std": 5.352220143999442
+    },
+    "shift_1_days_windDirection_05805": {
+        "mean": 129.88700071507358,
+        "std": 71.6339523953875
+    },
+    "shift_1_days_relativeHumidity_05805": {
+        "mean": 88.84893510521738,
+        "std": 7.068654510246746
+    },
+    "shift_10_days_airTemperature_max_05805": {
+        "mean": 3.7618415552655047,
+        "std": 15.864296682547591
+    },
+    "shift_10_days_relativeHumidity_05805": {
+        "mean": 88.85374141388174,
+        "std": 7.064422736001257
+    },
+    "windDirection_05805": {
+        "mean": 129.89510193206468,
+        "std": 71.63957152883366
+    },
+    "shift_10_days_airTemperature_min_05805": {
+        "mean": -5.485047377543385,
+        "std": 15.842407069343588
+    },
+    "shift_10_days_windDirection_05805": {
+        "mean": 129.93946760324604,
+        "std": 71.60156181393376
+    },
+    "accumulate_3_days_relativeHumidity_sum_05805": {
+        "mean": 88.84926844328393,
+        "std": 5.990642325559707
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_05805": {
+        "mean": 1.5724619856905788,
+        "std": 1.9594670226640976
+    },
+    "shift_1_days_pressure_05805": {
+        "mean": 1006.7895463813502,
+        "std": 7.494840651204597
+    },
+    "demodule_diff_05805": {
+        "mean": 204.68115021177317,
+        "std": 29.299097110791834
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_05805": {
+        "mean": 1.5724158515598385,
+        "std": 3.9604465021129087
+    },
+    "shift_10_days_soilTemperature_05805": {
+        "mean": -1.206603260631797,
+        "std": 18.223377723330533
+    },
+    "perc_days_05805": {
+        "mean": 1.0760879826300387,
+        "std": 2.2647359235542552
+    },
+    "shift_10_days_maximumWindGustSpeed_05805": {
+        "mean": 7.271759434778052,
+        "std": 3.103692880819789
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_05805": {
+        "mean": 1.5720822416518403,
+        "std": 3.96055819834274
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_05805": {
+        "mean": 1.5722030437488268,
+        "std": 1.9596709482349814
+    },
+    "windSpeed_05805": {
+        "mean": 4.007481329895129,
+        "std": 1.8278646841965678
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_05805": {
+        "mean": 1.5723804660723009,
+        "std": 2.7262708014547794
+    },
+    "accumulate_45_days_relativeHumidity_sum_05805": {
+        "mean": 88.84685770969668,
+        "std": 4.392656813065261
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_05805": {
+        "mean": 1.5712711123347727,
+        "std": 1.1138211389130395
+    },
+    "shift_1_days_windSpeed_05805": {
+        "mean": 4.006808235295865,
+        "std": 1.8271680558873662
+    },
+    "shift_10_days_sin_day_of_year_06005": {
+        "mean": -0.003550703911596326,
+        "std": 0.7057912985590314
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06005": {
+        "mean": 1.3310757215273707,
+        "std": 2.87617514942965
+    },
+    "pressure_06005": {
+        "mean": 979.7266701657245,
+        "std": 8.101724170919177
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06005": {
+        "mean": 86.64059620179586,
+        "std": 9.405143753555091
+    },
+    "airTemperature_min_06005": {
+        "mean": -8.87588665628667,
+        "std": 17.417682705709247
+    },
+    "airTemperature_max_06005": {
+        "mean": 4.099177743797177,
+        "std": 17.30613351288576
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06005": {
+        "mean": 86.64279850807415,
+        "std": 8.399309735499028
+    },
+    "shift_1_days_airTemperature_min_06005": {
+        "mean": -8.919500831720391,
+        "std": 17.48753198560575
+    },
+    "cos_day_of_year_06005": {
+        "mean": 0.00030985807050632695,
+        "std": 0.706902841495818
+    },
+    "totalAccumulatedPrecipitation_06005": {
+        "mean": 1.3291248476254756,
+        "std": 4.168046355322297
+    },
+    "shift_10_days_pressure_06005": {
+        "mean": 979.6955835575196,
+        "std": 8.074530467171893
+    },
+    "shift_10_days_windSpeed_06005": {
+        "mean": 3.974430803330145,
+        "std": 1.9551883670367098
+    },
+    "sin_day_of_year_06005": {
+        "mean": -0.00024491527694552674,
+        "std": 0.70669531565648
+    },
+    "shift_10_days_cos_day_of_year_06005": {
+        "mean": 0.0016598764342636385,
+        "std": 0.7084754090792509
+    },
+    "shift_1_days_airTemperature_max_06005": {
+        "mean": 4.044410958989984,
+        "std": 17.385596684174036
+    },
+    "relativeHumidity_06005": {
+        "mean": 86.56904007778883,
+        "std": 11.178925464648863
+    },
+    "accumulate_7_days_relativeHumidity_sum_06005": {
+        "mean": 86.57665022128806,
+        "std": 8.525079378435759
+    },
+    "shift_1_days_windDirection_06005": {
+        "mean": 151.50449698062556,
+        "std": 94.32317849607455
+    },
+    "shift_1_days_relativeHumidity_06005": {
+        "mean": 86.60557280267088,
+        "std": 11.114000405000496
+    },
+    "shift_10_days_airTemperature_max_06005": {
+        "mean": 4.064823251001027,
+        "std": 17.3512849416131
+    },
+    "shift_10_days_relativeHumidity_06005": {
+        "mean": 86.64532939914321,
+        "std": 11.068235628391754
+    },
+    "windDirection_06005": {
+        "mean": 151.19516932306522,
+        "std": 94.1551806197461
+    },
+    "shift_10_days_airTemperature_min_06005": {
+        "mean": -8.860497117351226,
+        "std": 17.391718019401882
+    },
+    "shift_10_days_windDirection_06005": {
+        "mean": 150.67560539328565,
+        "std": 94.35212589414577
+    },
+    "accumulate_3_days_relativeHumidity_sum_06005": {
+        "mean": 86.57438333224674,
+        "std": 9.518203197307962
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06005": {
+        "mean": 1.3320526671166508,
+        "std": 2.182234458483181
+    },
+    "shift_1_days_pressure_06005": {
+        "mean": 979.7037414877377,
+        "std": 8.080178534688253
+    },
+    "demodule_diff_06005": {
+        "mean": 209.78473623295517,
+        "std": 102.45744049365761
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06005": {
+        "mean": 1.3310633609510927,
+        "std": 4.1675406632101115
+    },
+    "shift_10_days_soilTemperature_06005": {
+        "mean": -2.4305745176226607,
+        "std": 19.274307412927573
+    },
+    "perc_days_06005": {
+        "mean": 2.6046445766071935,
+        "std": 4.757311230929482
+    },
+    "shift_10_days_maximumWindGustSpeed_06005": {
+        "mean": 6.334312109104873,
+        "std": 2.9853741536010414
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06005": {
+        "mean": 1.3291248476254756,
+        "std": 4.168046355322297
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06005": {
+        "mean": 1.3298111854702341,
+        "std": 2.1832241072931295
+    },
+    "windSpeed_06005": {
+        "mean": 3.967348005398441,
+        "std": 1.958299736413524
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06005": {
+        "mean": 1.329132545795235,
+        "std": 2.8768926211807226
+    },
+    "accumulate_45_days_relativeHumidity_sum_06005": {
+        "mean": 86.58255937034829,
+        "std": 7.16343853915437
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06005": {
+        "mean": 1.329426351920719,
+        "std": 1.3867398667378608
+    },
+    "shift_1_days_windSpeed_06005": {
+        "mean": 3.9853823881010384,
+        "std": 1.9668331820319689
+    },
+    "shift_10_days_sin_day_of_year_06010": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06010": {
+        "mean": 1.2557913328248789,
+        "std": 2.735756899300094
+    },
+    "pressure_06010": {
+        "mean": 986.453722213752,
+        "std": 8.048218336031608
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06010": {
+        "mean": 86.84127248578373,
+        "std": 9.48159001663479
+    },
+    "airTemperature_min_06010": {
+        "mean": -7.670285956218033,
+        "std": 17.44505823697533
+    },
+    "airTemperature_max_06010": {
+        "mean": 4.515223881073185,
+        "std": 17.118511294064028
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06010": {
+        "mean": 86.84209258233867,
+        "std": 8.333450960736956
+    },
+    "shift_1_days_airTemperature_min_06010": {
+        "mean": -7.670478297675327,
+        "std": 17.44531574804612
+    },
+    "cos_day_of_year_06010": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06010": {
+        "mean": 1.2558071585680834,
+        "std": 3.986731139108904
+    },
+    "shift_10_days_pressure_06010": {
+        "mean": 986.4548888202095,
+        "std": 8.047387681400865
+    },
+    "shift_10_days_windSpeed_06010": {
+        "mean": 3.8983668241712195,
+        "std": 1.8860178931093527
+    },
+    "sin_day_of_year_06010": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06010": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06010": {
+        "mean": 4.51585764428981,
+        "std": 17.11751654541987
+    },
+    "relativeHumidity_06010": {
+        "mean": 86.8322283970743,
+        "std": 11.35136593391977
+    },
+    "accumulate_7_days_relativeHumidity_sum_06010": {
+        "mean": 86.835573326632,
+        "std": 8.34049803651826
+    },
+    "shift_1_days_windDirection_06010": {
+        "mean": 150.10811727919474,
+        "std": 94.03377940209383
+    },
+    "shift_1_days_relativeHumidity_06010": {
+        "mean": 86.83433531170027,
+        "std": 11.348283606839598
+    },
+    "shift_10_days_airTemperature_max_06010": {
+        "mean": 4.520248523464619,
+        "std": 17.11066788886333
+    },
+    "shift_10_days_relativeHumidity_06010": {
+        "mean": 86.84091611506076,
+        "std": 11.342220162511957
+    },
+    "windDirection_06010": {
+        "mean": 150.11166561480144,
+        "std": 94.03838602694277
+    },
+    "shift_10_days_airTemperature_min_06010": {
+        "mean": -7.670040149832846,
+        "std": 17.444331662013116
+    },
+    "shift_10_days_windDirection_06010": {
+        "mean": 150.15749637091545,
+        "std": 94.03565312784396
+    },
+    "accumulate_3_days_relativeHumidity_sum_06010": {
+        "mean": 86.83384783305046,
+        "std": 9.489140729608932
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06010": {
+        "mean": 1.2557895487563264,
+        "std": 2.0679231584591427
+    },
+    "shift_1_days_pressure_06010": {
+        "mean": 986.4547303254529,
+        "std": 8.048537304213278
+    },
+    "demodule_diff_06010": {
+        "mean": 208.7831879793761,
+        "std": 103.40503021803222
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06010": {
+        "mean": 1.255797577065526,
+        "std": 3.9867340617522102
+    },
+    "shift_10_days_soilTemperature_06010": {
+        "mean": -1.6285358038120943,
+        "std": 19.37804178524459
+    },
+    "perc_days_06010": {
+        "mean": 2.934296233361654,
+        "std": 5.149192862886538
+    },
+    "shift_10_days_maximumWindGustSpeed_06010": {
+        "mean": 6.319131298856004,
+        "std": 3.073355769942602
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06010": {
+        "mean": 1.2558071585680834,
+        "std": 3.986731139108904
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06010": {
+        "mean": 1.2558068234711155,
+        "std": 2.0679127588983293
+    },
+    "windSpeed_06010": {
+        "mean": 3.898933505335282,
+        "std": 1.8865960265402
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06010": {
+        "mean": 1.255807158567988,
+        "std": 2.7357497183548327
+    },
+    "accumulate_45_days_relativeHumidity_sum_06010": {
+        "mean": 86.84516783735963,
+        "std": 6.8355175403272455
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06010": {
+        "mean": 1.2557186468115615,
+        "std": 1.3337413124253947
+    },
+    "shift_1_days_windSpeed_06010": {
+        "mean": 3.8988919319159705,
+        "std": 1.8866109842871535
+    },
+    "shift_10_days_sin_day_of_year_06020": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06020": {
+        "mean": 1.4932062686995216,
+        "std": 2.9985303363420104
+    },
+    "pressure_06020": {
+        "mean": 996.0653640943186,
+        "std": 8.696622150866556
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06020": {
+        "mean": 84.13458449048352,
+        "std": 9.384361246357008
+    },
+    "airTemperature_min_06020": {
+        "mean": -4.257616304473867,
+        "std": 16.545731017955276
+    },
+    "airTemperature_max_06020": {
+        "mean": 6.381114514940719,
+        "std": 16.52220046646105
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06020": {
+        "mean": 84.13456858177193,
+        "std": 8.23987090589031
+    },
+    "shift_1_days_airTemperature_min_06020": {
+        "mean": -4.257413165841388,
+        "std": 16.545458288550442
+    },
+    "cos_day_of_year_06020": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06020": {
+        "mean": 1.4936861026826174,
+        "std": 4.365629133427443
+    },
+    "shift_10_days_pressure_06020": {
+        "mean": 996.066657420856,
+        "std": 8.696575931390184
+    },
+    "shift_10_days_windSpeed_06020": {
+        "mean": 3.5584476463856873,
+        "std": 1.4551126268947094
+    },
+    "sin_day_of_year_06020": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06020": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06020": {
+        "mean": 6.3817454271742005,
+        "std": 16.521219390518052
+    },
+    "relativeHumidity_06020": {
+        "mean": 84.13147011747328,
+        "std": 11.091107537123078
+    },
+    "accumulate_7_days_relativeHumidity_sum_06020": {
+        "mean": 84.13249937553053,
+        "std": 8.240722330500905
+    },
+    "shift_1_days_windDirection_06020": {
+        "mean": 190.45187767140177,
+        "std": 73.1723101518082
+    },
+    "shift_1_days_relativeHumidity_06020": {
+        "mean": 84.1321096307429,
+        "std": 11.090812972741828
+    },
+    "shift_10_days_airTemperature_max_06020": {
+        "mean": 6.387021329204278,
+        "std": 16.51303105068948
+    },
+    "shift_10_days_relativeHumidity_06020": {
+        "mean": 84.13485492093176,
+        "std": 11.089583444420589
+    },
+    "windDirection_06020": {
+        "mean": 190.45681639798153,
+        "std": 73.17831997458002
+    },
+    "shift_10_days_airTemperature_min_06020": {
+        "mean": -4.2537711309632735,
+        "std": 16.54015347856363
+    },
+    "shift_10_days_windDirection_06020": {
+        "mean": 190.49475362870655,
+        "std": 73.15739868837827
+    },
+    "accumulate_3_days_relativeHumidity_sum_06020": {
+        "mean": 84.13182897940699,
+        "std": 9.3855089271513
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06020": {
+        "mean": 1.4932126162748065,
+        "std": 2.2622267876816027
+    },
+    "shift_1_days_pressure_06020": {
+        "mean": 996.0664791454057,
+        "std": 8.697194830609861
+    },
+    "demodule_diff_06020": {
+        "mean": 209.15745687166225,
+        "std": 105.37148909187796
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06020": {
+        "mean": 1.4932062686996543,
+        "std": 4.365688919033473
+    },
+    "shift_10_days_soilTemperature_06020": {
+        "mean": 1.2332910034582678,
+        "std": 19.223561019801785
+    },
+    "perc_days_06020": {
+        "mean": 1.8569810252053243,
+        "std": 3.3640561383769327
+    },
+    "shift_10_days_maximumWindGustSpeed_06020": {
+        "mean": 7.92390674413095,
+        "std": 2.997343716493154
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06020": {
+        "mean": 1.4936599355232374,
+        "std": 4.365637256396886
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06020": {
+        "mean": 1.493407630067039,
+        "std": 2.2621222454286243
+    },
+    "windSpeed_06020": {
+        "mean": 3.5594149350536384,
+        "std": 1.4543298751132767
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06020": {
+        "mean": 1.4936005030115427,
+        "std": 2.9984130257630603
+    },
+    "accumulate_45_days_relativeHumidity_sum_06020": {
+        "mean": 84.13009130674547,
+        "std": 6.485786274336671
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06020": {
+        "mean": 1.4928277739801796,
+        "std": 1.564071671263915
+    },
+    "shift_1_days_windSpeed_06020": {
+        "mean": 3.559320706877129,
+        "std": 1.4544209581954801
+    },
+    "shift_10_days_sin_day_of_year_06022": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06022": {
+        "mean": 1.5094092238863261,
+        "std": 3.162498012801475
+    },
+    "pressure_06022": {
+        "mean": 996.9477596420105,
+        "std": 8.722773311860507
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06022": {
+        "mean": 84.00045786909531,
+        "std": 9.459906422213662
+    },
+    "airTemperature_min_06022": {
+        "mean": -3.5464707336714527,
+        "std": 16.213689607528924
+    },
+    "airTemperature_max_06022": {
+        "mean": 6.771692281348589,
+        "std": 16.34465185206999
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06022": {
+        "mean": 84.00051284910943,
+        "std": 8.268530843151604
+    },
+    "shift_1_days_airTemperature_min_06022": {
+        "mean": -3.54633321985458,
+        "std": 16.213502685885356
+    },
+    "cos_day_of_year_06022": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06022": {
+        "mean": 1.5099430498196056,
+        "std": 4.671590960029454
+    },
+    "shift_10_days_pressure_06022": {
+        "mean": 996.9489681131655,
+        "std": 8.722590477660516
+    },
+    "shift_10_days_windSpeed_06022": {
+        "mean": 3.5725155706454266,
+        "std": 1.4586980485471768
+    },
+    "sin_day_of_year_06022": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06022": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06022": {
+        "mean": 6.772389828764879,
+        "std": 16.3435360061502
+    },
+    "relativeHumidity_06022": {
+        "mean": 83.99742014910443,
+        "std": 11.285284121973842
+    },
+    "accumulate_7_days_relativeHumidity_sum_06022": {
+        "mean": 83.99876907911563,
+        "std": 8.26924425230375
+    },
+    "shift_1_days_windDirection_06022": {
+        "mean": 190.32760748160197,
+        "std": 73.80896079685874
+    },
+    "shift_1_days_relativeHumidity_06022": {
+        "mean": 83.99840632929174,
+        "std": 11.284665010255518
+    },
+    "shift_10_days_airTemperature_max_06022": {
+        "mean": 6.77721815949143,
+        "std": 16.33598515484904
+    },
+    "shift_10_days_relativeHumidity_06022": {
+        "mean": 84.00072650271781,
+        "std": 11.283624546014527
+    },
+    "windDirection_06022": {
+        "mean": 190.3325543845475,
+        "std": 73.81493987994733
+    },
+    "shift_10_days_airTemperature_min_06022": {
+        "mean": -3.543171248635315,
+        "std": 16.20880780587458
+    },
+    "shift_10_days_windDirection_06022": {
+        "mean": 190.3684220415727,
+        "std": 73.79320536526663
+    },
+    "accumulate_3_days_relativeHumidity_sum_06022": {
+        "mean": 83.99800556537284,
+        "std": 9.46092538534746
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06022": {
+        "mean": 1.5094149624899889,
+        "std": 2.367788980578359
+    },
+    "shift_1_days_pressure_06022": {
+        "mean": 996.9488785425451,
+        "std": 8.723335085275629
+    },
+    "demodule_diff_06022": {
+        "mean": 207.50010395186402,
+        "std": 89.78013297105261
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06022": {
+        "mean": 1.5094092238864596,
+        "std": 4.671630815268992
+    },
+    "shift_10_days_soilTemperature_06022": {
+        "mean": 1.9129526250476758,
+        "std": 18.799583025938677
+    },
+    "perc_days_06022": {
+        "mean": 2.0134050788256395,
+        "std": 3.67307937972999
+    },
+    "shift_10_days_maximumWindGustSpeed_06022": {
+        "mean": 8.032827976020997,
+        "std": 3.005975992399936
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06022": {
+        "mean": 1.5099327697922174,
+        "std": 4.671594163195454
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06022": {
+        "mean": 1.50963305725389,
+        "std": 2.3676796968480653
+    },
+    "windSpeed_06022": {
+        "mean": 3.5737013953970935,
+        "std": 1.45770030201665
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06022": {
+        "mean": 1.5098589658107595,
+        "std": 3.1623831218833405
+    },
+    "accumulate_45_days_relativeHumidity_sum_06022": {
+        "mean": 83.99646342036976,
+        "std": 6.458221133420584
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06022": {
+        "mean": 1.5089308361498337,
+        "std": 1.6027036863595248
+    },
+    "shift_1_days_windSpeed_06022": {
+        "mean": 3.573591022366738,
+        "std": 1.4578115162212864
+    },
+    "shift_10_days_sin_day_of_year_06024": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06024": {
+        "mean": 1.4862434607958963,
+        "std": 3.072399581039436
+    },
+    "pressure_06024": {
+        "mean": 998.3018149344607,
+        "std": 8.691651944796627
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06024": {
+        "mean": 84.9994906490285,
+        "std": 8.529551170442543
+    },
+    "airTemperature_min_06024": {
+        "mean": -3.788122703644906,
+        "std": 16.47560872500892
+    },
+    "airTemperature_max_06024": {
+        "mean": 6.628754064563729,
+        "std": 16.58078373844688
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06024": {
+        "mean": 85.0001585204872,
+        "std": 7.40476481244324
+    },
+    "shift_1_days_airTemperature_min_06024": {
+        "mean": -3.787850690437029,
+        "std": 16.475229184264133
+    },
+    "cos_day_of_year_06024": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06024": {
+        "mean": 1.4867627969323136,
+        "std": 4.54685759369778
+    },
+    "shift_10_days_pressure_06024": {
+        "mean": 998.302893787333,
+        "std": 8.691243132873554
+    },
+    "shift_10_days_windSpeed_06024": {
+        "mean": 3.903102341258173,
+        "std": 1.5480561070681031
+    },
+    "sin_day_of_year_06024": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06024": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06024": {
+        "mean": 6.629419366406609,
+        "std": 16.579671929572324
+    },
+    "relativeHumidity_06024": {
+        "mean": 84.9950998525819,
+        "std": 10.333573508872991
+    },
+    "accumulate_7_days_relativeHumidity_sum_06024": {
+        "mean": 84.99576756410224,
+        "std": 7.4072046151100395
+    },
+    "shift_1_days_windDirection_06024": {
+        "mean": 197.0285856934844,
+        "std": 74.49433820294841
+    },
+    "shift_1_days_relativeHumidity_06024": {
+        "mean": 84.99514652901101,
+        "std": 10.333565188627777
+    },
+    "shift_10_days_airTemperature_max_06024": {
+        "mean": 6.633056840143545,
+        "std": 16.573846406887867
+    },
+    "shift_10_days_relativeHumidity_06024": {
+        "mean": 84.99939099540525,
+        "std": 10.331004359361485
+    },
+    "windDirection_06024": {
+        "mean": 197.03325504958087,
+        "std": 74.49544776786398
+    },
+    "shift_10_days_airTemperature_min_06024": {
+        "mean": -3.7846352761732667,
+        "std": 16.470578282843416
+    },
+    "shift_10_days_windDirection_06024": {
+        "mean": 197.01981344509161,
+        "std": 74.46413332517021
+    },
+    "accumulate_3_days_relativeHumidity_sum_06024": {
+        "mean": 84.99512125403851,
+        "std": 8.53217838003874
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06024": {
+        "mean": 1.486293104374726,
+        "std": 2.303526365829887
+    },
+    "shift_1_days_pressure_06024": {
+        "mean": 998.3029460444203,
+        "std": 8.692196102552696
+    },
+    "demodule_diff_06024": {
+        "mean": 208.19837666846965,
+        "std": 99.48929482153544
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06024": {
+        "mean": 1.48624081973104,
+        "std": 4.5468830061802565
+    },
+    "shift_10_days_soilTemperature_06024": {
+        "mean": 1.824542664189114,
+        "std": 18.410649493085362
+    },
+    "perc_days_06024": {
+        "mean": 2.0264325497970357,
+        "std": 3.8423006212444664
+    },
+    "shift_10_days_maximumWindGustSpeed_06024": {
+        "mean": 8.28471820107495,
+        "std": 3.002719301824147
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06024": {
+        "mean": 1.486756611371984,
+        "std": 4.546859571280858
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06024": {
+        "mean": 1.4865216500280198,
+        "std": 2.303410901542647
+    },
+    "windSpeed_06024": {
+        "mean": 3.904601275506711,
+        "std": 1.5466020052433735
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06024": {
+        "mean": 1.4867108663376933,
+        "std": 3.0722783069994626
+    },
+    "accumulate_45_days_relativeHumidity_sum_06024": {
+        "mean": 84.99790486683698,
+        "std": 5.633606789475272
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06024": {
+        "mean": 1.4860356531099344,
+        "std": 1.529118049760734
+    },
+    "shift_1_days_windSpeed_06024": {
+        "mean": 3.904431280576228,
+        "std": 1.546765945531017
+    },
+    "shift_10_days_sin_day_of_year_06026": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06026": {
+        "mean": 1.5199277447402524,
+        "std": 2.928161965572988
+    },
+    "pressure_06026": {
+        "mean": 997.8863818534151,
+        "std": 8.622295276322749
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06026": {
+        "mean": 85.202976250874,
+        "std": 8.314958475384028
+    },
+    "airTemperature_min_06026": {
+        "mean": -3.9705791310678005,
+        "std": 16.656837096892172
+    },
+    "airTemperature_max_06026": {
+        "mean": 6.4329236881807415,
+        "std": 16.621206333916444
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06026": {
+        "mean": 85.20363749169704,
+        "std": 7.253410515933721
+    },
+    "shift_1_days_airTemperature_min_06026": {
+        "mean": -3.970064613756823,
+        "std": 16.656080423944513
+    },
+    "cos_day_of_year_06026": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06026": {
+        "mean": 1.520341489768426,
+        "std": 4.261366979840651
+    },
+    "shift_10_days_pressure_06026": {
+        "mean": 997.887699000372,
+        "std": 8.62218033311003
+    },
+    "shift_10_days_windSpeed_06026": {
+        "mean": 3.904024376276831,
+        "std": 1.5312534620061578
+    },
+    "sin_day_of_year_06026": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06026": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06026": {
+        "mean": 6.433581687228092,
+        "std": 16.620088745766253
+    },
+    "relativeHumidity_06026": {
+        "mean": 85.19800171896154,
+        "std": 9.953357910040724
+    },
+    "accumulate_7_days_relativeHumidity_sum_06026": {
+        "mean": 85.19886758644127,
+        "std": 7.256337235581918
+    },
+    "shift_1_days_windDirection_06026": {
+        "mean": 197.16952061842608,
+        "std": 73.74757140879622
+    },
+    "shift_1_days_relativeHumidity_06026": {
+        "mean": 85.1981168535889,
+        "std": 9.953331144896943
+    },
+    "shift_10_days_airTemperature_max_06026": {
+        "mean": 6.43700683791593,
+        "std": 16.614537588752608
+    },
+    "shift_10_days_relativeHumidity_06026": {
+        "mean": 85.20286925322701,
+        "std": 9.950341003437996
+    },
+    "windDirection_06026": {
+        "mean": 197.1747340271848,
+        "std": 73.74901653706705
+    },
+    "shift_10_days_airTemperature_min_06026": {
+        "mean": -3.9661876445690347,
+        "std": 16.650397399835065
+    },
+    "shift_10_days_windDirection_06026": {
+        "mean": 197.16292664722442,
+        "std": 73.71562049594581
+    },
+    "accumulate_3_days_relativeHumidity_sum_06026": {
+        "mean": 85.19807036805962,
+        "std": 8.318090820258565
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06026": {
+        "mean": 1.5199819768508902,
+        "std": 2.225259735693586
+    },
+    "shift_1_days_pressure_06026": {
+        "mean": 997.8875279315973,
+        "std": 8.622857578812843
+    },
+    "demodule_diff_06026": {
+        "mean": 206.19084108139828,
+        "std": 92.47840465645356
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06026": {
+        "mean": 1.5199197997950575,
+        "std": 4.261398489138492
+    },
+    "shift_10_days_soilTemperature_06026": {
+        "mean": 1.624385305129805,
+        "std": 18.59473834797534
+    },
+    "perc_days_06026": {
+        "mean": 1.7808930425752856,
+        "std": 3.467785126165224
+    },
+    "shift_10_days_maximumWindGustSpeed_06026": {
+        "mean": 8.229680008842877,
+        "std": 2.958699261970772
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06026": {
+        "mean": 1.5203313339179059,
+        "std": 4.261370327698493
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06026": {
+        "mean": 1.5201330383055207,
+        "std": 2.225182847973516
+    },
+    "windSpeed_06026": {
+        "mean": 3.905412722879578,
+        "std": 1.5300059669051989
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06026": {
+        "mean": 1.5202905725278728,
+        "std": 2.928060480668554
+    },
+    "accumulate_45_days_relativeHumidity_sum_06026": {
+        "mean": 85.2011502884863,
+        "std": 5.5538860071251985
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06026": {
+        "mean": 1.5196774630603753,
+        "std": 1.5134706905094644
+    },
+    "shift_1_days_windSpeed_06026": {
+        "mean": 3.9052514730259924,
+        "std": 1.530154501505008
+    },
+    "shift_10_days_sin_day_of_year_06027": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06027": {
+        "mean": 1.5352707055480181,
+        "std": 2.9269601669577674
+    },
+    "pressure_06027": {
+        "mean": 997.412203610671,
+        "std": 8.51502061865429
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06027": {
+        "mean": 85.62423865392086,
+        "std": 8.186949925330465
+    },
+    "airTemperature_min_06027": {
+        "mean": -4.375661647165044,
+        "std": 17.082958802087102
+    },
+    "airTemperature_max_06027": {
+        "mean": 6.087930722264367,
+        "std": 16.78769606280686
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06027": {
+        "mean": 85.62489406036852,
+        "std": 7.0953844836825715
+    },
+    "shift_1_days_airTemperature_min_06027": {
+        "mean": -4.374735664591982,
+        "std": 17.081488888152123
+    },
+    "cos_day_of_year_06027": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06027": {
+        "mean": 1.5355019942157755,
+        "std": 4.328231103202181
+    },
+    "shift_10_days_pressure_06027": {
+        "mean": 997.4138292711652,
+        "std": 8.515254109800361
+    },
+    "shift_10_days_windSpeed_06027": {
+        "mean": 3.928870430853129,
+        "std": 1.5965236444301656
+    },
+    "sin_day_of_year_06027": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06027": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06027": {
+        "mean": 6.088592040713997,
+        "std": 16.786543528029068
+    },
+    "relativeHumidity_06027": {
+        "mean": 85.61871093800917,
+        "std": 9.89481518289314
+    },
+    "accumulate_7_days_relativeHumidity_sum_06027": {
+        "mean": 85.61964156150431,
+        "std": 7.099142696876385
+    },
+    "shift_1_days_windDirection_06027": {
+        "mean": 197.17173152586602,
+        "std": 74.49144110040118
+    },
+    "shift_1_days_relativeHumidity_06027": {
+        "mean": 85.61874979560967,
+        "std": 9.89480636833329
+    },
+    "shift_10_days_airTemperature_max_06027": {
+        "mean": 6.091647407653256,
+        "std": 16.781457893608412
+    },
+    "shift_10_days_relativeHumidity_06027": {
+        "mean": 85.62411881742031,
+        "std": 9.891097347826694
+    },
+    "windDirection_06027": {
+        "mean": 197.17792488106718,
+        "std": 74.49357205315272
+    },
+    "shift_10_days_airTemperature_min_06027": {
+        "mean": -4.369801473594565,
+        "std": 17.07399802040713
+    },
+    "shift_10_days_windDirection_06027": {
+        "mean": 197.16874946564366,
+        "std": 74.45723949240647
+    },
+    "accumulate_3_days_relativeHumidity_sum_06027": {
+        "mean": 85.61872980758125,
+        "std": 8.1909102550797
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06027": {
+        "mean": 1.5353358896011118,
+        "std": 2.2089939434726245
+    },
+    "shift_1_days_pressure_06027": {
+        "mean": 997.4133755924198,
+        "std": 8.515594586839997
+    },
+    "demodule_diff_06027": {
+        "mean": 204.2798101838077,
+        "std": 110.30900089856247
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06027": {
+        "mean": 1.5352537562713675,
+        "std": 4.3282514558775675
+    },
+    "shift_10_days_soilTemperature_06027": {
+        "mean": 1.24882655946807,
+        "std": 18.919722834840027
+    },
+    "perc_days_06027": {
+        "mean": 1.8644387803266307,
+        "std": 3.588902915903241
+    },
+    "shift_10_days_maximumWindGustSpeed_06027": {
+        "mean": 8.145691274000592,
+        "std": 3.031558159799455
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06027": {
+        "mean": 1.535484997914173,
+        "std": 4.328236138457293
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06027": {
+        "mean": 1.5353573869757355,
+        "std": 2.208991534346625
+    },
+    "windSpeed_06027": {
+        "mean": 3.930146212243966,
+        "std": 1.5956001811665912
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06027": {
+        "mean": 1.535457758801106,
+        "std": 2.9269125174767745
+    },
+    "accumulate_45_days_relativeHumidity_sum_06027": {
+        "mean": 85.62218717456601,
+        "std": 5.415872244012396
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06027": {
+        "mean": 1.5349666030967943,
+        "std": 1.483808547423714
+    },
+    "shift_1_days_windSpeed_06027": {
+        "mean": 3.929993186713025,
+        "std": 1.5957274678698545
+    },
+    "shift_10_days_sin_day_of_year_06030": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06030": {
+        "mean": 1.7635249253833791,
+        "std": 3.1539604449262018
+    },
+    "pressure_06030": {
+        "mean": 995.1278266882058,
+        "std": 8.088942723182933
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06030": {
+        "mean": 87.55369479864117,
+        "std": 7.689606762680419
+    },
+    "airTemperature_min_06030": {
+        "mean": -4.361824434453078,
+        "std": 16.407542113470978
+    },
+    "airTemperature_max_06030": {
+        "mean": 6.3205348846163165,
+        "std": 16.292435219905336
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06030": {
+        "mean": 87.55307865118408,
+        "std": 6.858172481669355
+    },
+    "shift_1_days_airTemperature_min_06030": {
+        "mean": -4.361196318997515,
+        "std": 16.40653323275677
+    },
+    "cos_day_of_year_06030": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06030": {
+        "mean": 1.7636606545201907,
+        "std": 4.456674994255068
+    },
+    "shift_10_days_pressure_06030": {
+        "mean": 995.1278265294513,
+        "std": 8.086174605852769
+    },
+    "shift_10_days_windSpeed_06030": {
+        "mean": 3.699888407056965,
+        "std": 1.733414274507803
+    },
+    "sin_day_of_year_06030": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06030": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06030": {
+        "mean": 6.320997683875367,
+        "std": 16.29160828402741
+    },
+    "relativeHumidity_06030": {
+        "mean": 87.55635108697902,
+        "std": 8.939887278673195
+    },
+    "accumulate_7_days_relativeHumidity_sum_06030": {
+        "mean": 87.55553547088871,
+        "std": 6.8561333945533915
+    },
+    "shift_1_days_windDirection_06030": {
+        "mean": 120.02234103784696,
+        "std": 76.60051822718283
+    },
+    "shift_1_days_relativeHumidity_06030": {
+        "mean": 87.55602722708531,
+        "std": 8.940085845246715
+    },
+    "shift_10_days_airTemperature_max_06030": {
+        "mean": 6.322820238567697,
+        "std": 16.288469104875023
+    },
+    "shift_10_days_relativeHumidity_06030": {
+        "mean": 87.55422749681054,
+        "std": 8.94076467370968
+    },
+    "windDirection_06030": {
+        "mean": 120.03310123996299,
+        "std": 76.60758387473584
+    },
+    "shift_10_days_airTemperature_min_06030": {
+        "mean": -4.356969390718432,
+        "std": 16.39971546534068
+    },
+    "shift_10_days_windDirection_06030": {
+        "mean": 120.00608855263154,
+        "std": 76.5644630463913
+    },
+    "accumulate_3_days_relativeHumidity_sum_06030": {
+        "mean": 87.55592020877121,
+        "std": 7.6881058430522025
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06030": {
+        "mean": 1.763615145346148,
+        "std": 2.4471416312122014
+    },
+    "shift_1_days_pressure_06030": {
+        "mean": 995.1290831662174,
+        "std": 8.088993480466092
+    },
+    "demodule_diff_06030": {
+        "mean": 200.6992740148939,
+        "std": 142.8113015446153
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06030": {
+        "mean": 1.7635035073296828,
+        "std": 4.45670305939514
+    },
+    "shift_10_days_soilTemperature_06030": {
+        "mean": 1.1817589763522949,
+        "std": 18.387080712977767
+    },
+    "perc_days_06030": {
+        "mean": 1.4957991126215426,
+        "std": 3.501268423864778
+    },
+    "shift_10_days_maximumWindGustSpeed_06030": {
+        "mean": 6.317827447117795,
+        "std": 2.687160209153723
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06030": {
+        "mean": 1.7636346127455116,
+        "std": 4.456683642269417
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06030": {
+        "mean": 1.7635836162087144,
+        "std": 2.4471677860574017
+    },
+    "windSpeed_06030": {
+        "mean": 3.699959648242277,
+        "std": 1.7336065631986626
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06030": {
+        "mean": 1.7636148398529812,
+        "std": 3.1539350477702954
+    },
+    "accumulate_45_days_relativeHumidity_sum_06030": {
+        "mean": 87.54427617036119,
+        "std": 5.651347795034003
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06030": {
+        "mean": 1.7632865303692018,
+        "std": 1.6538582738600385
+    },
+    "shift_1_days_windSpeed_06030": {
+        "mean": 3.699925394546481,
+        "std": 1.7336233842341238
+    },
+    "shift_10_days_sin_day_of_year_06256": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06256": {
+        "mean": 1.4331000529662683,
+        "std": 2.7356071841671046
+    },
+    "pressure_06256": {
+        "mean": 990.7596844739679,
+        "std": 8.686605812448153
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06256": {
+        "mean": 84.88555303290865,
+        "std": 9.675090946115104
+    },
+    "airTemperature_min_06256": {
+        "mean": -6.484693784223901,
+        "std": 17.28455063606619
+    },
+    "shift_10_days_water_flow_06256": {
+        "mean": 3.7978887000849477,
+        "std": 2.6035399435224442
+    },
+    "airTemperature_max_06256": {
+        "mean": 5.109214880500288,
+        "std": 16.95541310249355
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06256": {
+        "mean": 84.88592561170223,
+        "std": 8.523186805693749
+    },
+    "shift_1_days_airTemperature_min_06256": {
+        "mean": -6.484576610938067,
+        "std": 17.28439678706255
+    },
+    "cos_day_of_year_06256": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06256": {
+        "mean": 1.43324653823727,
+        "std": 3.8856047614546965
+    },
+    "shift_10_days_pressure_06256": {
+        "mean": 990.7617882176725,
+        "std": 8.687792990515277
+    },
+    "shift_10_days_windSpeed_06256": {
+        "mean": 3.613833900800665,
+        "std": 1.5890671422567877
+    },
+    "sin_day_of_year_06256": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06256": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06256": {
+        "mean": 5.109973987453999,
+        "std": 16.954265993488562
+    },
+    "relativeHumidity_06256": {
+        "mean": 84.8793842936826,
+        "std": 11.357181999266036
+    },
+    "accumulate_7_days_relativeHumidity_sum_06256": {
+        "mean": 84.88163255037585,
+        "std": 8.526053514042976
+    },
+    "shift_1_days_windDirection_06256": {
+        "mean": 165.8462611371081,
+        "std": 84.73187673214213
+    },
+    "shift_1_days_relativeHumidity_06256": {
+        "mean": 84.8807332671706,
+        "std": 11.355951661795611
+    },
+    "shift_30_days_water_flow_06256": {
+        "mean": 3.797865099594057,
+        "std": 2.6035487813766673
+    },
+    "shift_10_days_airTemperature_max_06256": {
+        "mean": 5.1162193858752,
+        "std": 16.944865806571457
+    },
+    "shift_10_days_relativeHumidity_06256": {
+        "mean": 84.88552977328247,
+        "std": 11.352778708624715
+    },
+    "windDirection_06256": {
+        "mean": 165.8532371650293,
+        "std": 84.74102393359323
+    },
+    "shift_10_days_airTemperature_min_06256": {
+        "mean": -6.481373192961714,
+        "std": 17.279661738697108
+    },
+    "shift_10_days_windDirection_06256": {
+        "mean": 165.8957039398825,
+        "std": 84.69969446025236
+    },
+    "shift_20_days_water_flow_06256": {
+        "mean": 3.7979878221466867,
+        "std": 2.6034691550647273
+    },
+    "accumulate_3_days_relativeHumidity_sum_06256": {
+        "mean": 84.88038960601848,
+        "std": 9.678390747112312
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06256": {
+        "mean": 1.4331000529664124,
+        "std": 2.1056127827642355
+    },
+    "shift_1_days_pressure_06256": {
+        "mean": 990.7607149157453,
+        "std": 8.687241827685625
+    },
+    "demodule_diff_06256": {
+        "mean": 209.15943220724176,
+        "std": 29.116419848797868
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06256": {
+        "mean": 1.4331000529663696,
+        "std": 3.885650047864883
+    },
+    "shift_10_days_soilTemperature_06256": {
+        "mean": -0.7352245927697857,
+        "std": 19.638760452528523
+    },
+    "perc_days_06256": {
+        "mean": 1.7557821202681017,
+        "std": 3.3511339834724656
+    },
+    "shift_10_days_maximumWindGustSpeed_06256": {
+        "mean": 7.045333338091374,
+        "std": 2.9598995613663504
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06256": {
+        "mean": 1.4332263839578496,
+        "std": 3.8856116424778877
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06256": {
+        "mean": 1.4331611118181182,
+        "std": 2.1055734924399
+    },
+    "windSpeed_06256": {
+        "mean": 3.6148980959406343,
+        "std": 1.5889207175719113
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06256": {
+        "mean": 1.4332148243173277,
+        "std": 2.7355536796906637
+    },
+    "accumulate_45_days_relativeHumidity_sum_06256": {
+        "mean": 84.8863927212367,
+        "std": 6.882205171038456
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06256": {
+        "mean": 1.4329035087152442,
+        "std": 1.475080034093919
+    },
+    "shift_1_days_windSpeed_06256": {
+        "mean": 3.6147947190753515,
+        "std": 1.5889901629843033
+    },
+    "shift_10_days_sin_day_of_year_06259": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06259": {
+        "mean": 1.44373682358982,
+        "std": 2.7504028604580633
+    },
+    "pressure_06259": {
+        "mean": 992.3565748460459,
+        "std": 8.566307711364889
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06259": {
+        "mean": 84.7980430254093,
+        "std": 9.57600733118
+    },
+    "airTemperature_min_06259": {
+        "mean": -5.948991761978779,
+        "std": 17.098597008095442
+    },
+    "shift_10_days_water_flow_06259": {
+        "mean": 7.5321349004059615,
+        "std": 8.92683731730531
+    },
+    "airTemperature_max_06259": {
+        "mean": 5.45855753150112,
+        "std": 16.827802591913994
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06259": {
+        "mean": 84.79834420114958,
+        "std": 8.452792131608978
+    },
+    "shift_1_days_airTemperature_min_06259": {
+        "mean": -5.9488529913807895,
+        "std": 17.098413120397055
+    },
+    "cos_day_of_year_06259": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06259": {
+        "mean": 1.4439813500492331,
+        "std": 3.898979479831451
+    },
+    "shift_10_days_pressure_06259": {
+        "mean": 992.3582880832435,
+        "std": 8.566867368813455
+    },
+    "shift_10_days_windSpeed_06259": {
+        "mean": 3.577268103125361,
+        "std": 1.5271185780053065
+    },
+    "sin_day_of_year_06259": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06259": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06259": {
+        "mean": 5.4592571552538445,
+        "std": 16.8267411245685
+    },
+    "relativeHumidity_06259": {
+        "mean": 84.79204900897622,
+        "std": 11.187569352300697
+    },
+    "accumulate_7_days_relativeHumidity_sum_06259": {
+        "mean": 84.793853146402,
+        "std": 8.455640831516469
+    },
+    "shift_1_days_windDirection_06259": {
+        "mean": 166.26596693043416,
+        "std": 83.46290698503253
+    },
+    "shift_1_days_relativeHumidity_06259": {
+        "mean": 84.7929791874029,
+        "std": 11.186928222500978
+    },
+    "shift_30_days_water_flow_06259": {
+        "mean": 7.532470971396236,
+        "std": 8.926635196775093
+    },
+    "shift_10_days_airTemperature_max_06259": {
+        "mean": 5.465280204808136,
+        "std": 16.817593901669085
+    },
+    "shift_10_days_relativeHumidity_06259": {
+        "mean": 84.79804475440177,
+        "std": 11.183699199805895
+    },
+    "windDirection_06259": {
+        "mean": 166.27288886110316,
+        "std": 83.47206266900102
+    },
+    "shift_10_days_airTemperature_min_06259": {
+        "mean": -5.945556836682301,
+        "std": 17.093559427092885
+    },
+    "shift_10_days_windDirection_06259": {
+        "mean": 166.31465134226193,
+        "std": 83.43314283220911
+    },
+    "shift_20_days_water_flow_06259": {
+        "mean": 7.53234352874543,
+        "std": 8.926711468576343
+    },
+    "accumulate_3_days_relativeHumidity_sum_06259": {
+        "mean": 84.79277767778099,
+        "std": 9.579192477856028
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06259": {
+        "mean": 1.4437368235899648,
+        "std": 2.116236062441004
+    },
+    "shift_1_days_pressure_06259": {
+        "mean": 992.357638208248,
+        "std": 8.56688799796534
+    },
+    "demodule_diff_06259": {
+        "mean": 207.82452300757245,
+        "std": 31.928080946001447
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06259": {
+        "mean": 1.4437368235899368,
+        "std": 3.8990414586863564
+    },
+    "shift_10_days_soilTemperature_06259": {
+        "mean": -0.2537291611101103,
+        "std": 19.606165792331176
+    },
+    "perc_days_06259": {
+        "mean": 1.7557821202681017,
+        "std": 3.3511339834724656
+    },
+    "shift_10_days_maximumWindGustSpeed_06259": {
+        "mean": 7.1369133306955215,
+        "std": 2.879900050750779
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06259": {
+        "mean": 1.4439557988901894,
+        "std": 3.898988056513757
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06259": {
+        "mean": 1.4438306592804409,
+        "std": 2.1161783248705994
+    },
+    "windSpeed_06259": {
+        "mean": 3.5782329787421254,
+        "std": 1.5268621038200532
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06259": {
+        "mean": 1.443930667599017,
+        "std": 2.750322896468654
+    },
+    "accumulate_45_days_relativeHumidity_sum_06259": {
+        "mean": 84.79795251963347,
+        "std": 6.830850286592891
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06259": {
+        "mean": 1.4434900016499381,
+        "std": 1.4904792752477773
+    },
+    "shift_1_days_windSpeed_06259": {
+        "mean": 3.5781346592001917,
+        "std": 1.52693020031623
+    },
+    "shift_10_days_sin_day_of_year_06296": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06296": {
+        "mean": 1.5054655432070438,
+        "std": 3.1242977730001327
+    },
+    "pressure_06296": {
+        "mean": 996.9183265554252,
+        "std": 8.71630214110416
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06296": {
+        "mean": 84.03511212050518,
+        "std": 9.423338185760912
+    },
+    "airTemperature_min_06296": {
+        "mean": -3.6314438028862113,
+        "std": 16.253585299057647
+    },
+    "airTemperature_max_06296": {
+        "mean": 6.731284836419215,
+        "std": 16.367165142257154
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06296": {
+        "mean": 84.03516001871307,
+        "std": 8.245100818507021
+    },
+    "shift_1_days_airTemperature_min_06296": {
+        "mean": -3.6312950705002485,
+        "std": 16.25338322335484
+    },
+    "cos_day_of_year_06296": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06296": {
+        "mean": 1.5059939291361135,
+        "std": 4.59796117143626
+    },
+    "shift_10_days_pressure_06296": {
+        "mean": 996.9195280181361,
+        "std": 8.716111488223282
+    },
+    "shift_10_days_windSpeed_06296": {
+        "mean": 3.5763734869118737,
+        "std": 1.4544332115667438
+    },
+    "sin_day_of_year_06296": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06296": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06296": {
+        "mean": 6.7319814324649165,
+        "std": 16.366052833769082
+    },
+    "relativeHumidity_06296": {
+        "mean": 84.03215158874151,
+        "std": 11.217536225742036
+    },
+    "accumulate_7_days_relativeHumidity_sum_06296": {
+        "mean": 84.03342439549661,
+        "std": 8.245817862028147
+    },
+    "shift_1_days_windDirection_06296": {
+        "mean": 190.43486857867939,
+        "std": 73.59779255098164
+    },
+    "shift_1_days_relativeHumidity_06296": {
+        "mean": 84.03306425350756,
+        "std": 11.21698892551969
+    },
+    "shift_10_days_airTemperature_max_06296": {
+        "mean": 6.736858765263081,
+        "std": 16.358435436672917
+    },
+    "shift_10_days_relativeHumidity_06296": {
+        "mean": 84.03538086235153,
+        "std": 11.215940150691319
+    },
+    "windDirection_06296": {
+        "mean": 190.4398220577522,
+        "std": 73.60379188349648
+    },
+    "shift_10_days_airTemperature_min_06296": {
+        "mean": -3.628087670166489,
+        "std": 16.248638836908853
+    },
+    "shift_10_days_windDirection_06296": {
+        "mean": 190.47580845673363,
+        "std": 73.58214949389637
+    },
+    "accumulate_3_days_relativeHumidity_sum_06296": {
+        "mean": 84.03268795796518,
+        "std": 9.424354461153271
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06296": {
+        "mean": 1.5054721866846186,
+        "std": 2.3454481066868538
+    },
+    "shift_1_days_pressure_06296": {
+        "mean": 996.9194451169094,
+        "std": 8.71686262631197
+    },
+    "demodule_diff_06296": {
+        "mean": 207.37593446536036,
+        "std": 84.98234920639099
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06296": {
+        "mean": 1.5054655432071675,
+        "std": 4.598002886767647
+    },
+    "shift_10_days_soilTemperature_06296": {
+        "mean": 1.842964208503388,
+        "std": 18.82398607262865
+    },
+    "perc_days_06296": {
+        "mean": 1.8538657604078166,
+        "std": 3.4174526546844164
+    },
+    "shift_10_days_maximumWindGustSpeed_06296": {
+        "mean": 8.026155223332319,
+        "std": 2.997957644522645
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06296": {
+        "mean": 1.5059823777320696,
+        "std": 4.597964801547157
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06296": {
+        "mean": 1.5056882996049727,
+        "std": 2.3453388034670573
+    },
+    "windSpeed_06296": {
+        "mean": 3.577539396688608,
+        "std": 1.4534456147211077
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06296": {
+        "mean": 1.5059109066581136,
+        "std": 3.124181937650629
+    },
+    "accumulate_45_days_relativeHumidity_sum_06296": {
+        "mean": 84.03106782744867,
+        "std": 6.449682528453744
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06296": {
+        "mean": 1.5050033854790819,
+        "std": 1.5942658990630982
+    },
+    "shift_1_days_windSpeed_06296": {
+        "mean": 3.577430721499798,
+        "std": 1.453555247488175
+    },
+    "shift_10_days_sin_day_of_year_06549": {
+        "mean": 8.60226026292442e-05,
+        "std": 0.7068693988570842
+    },
+    "accumulate_3_days_shift_10_days_totalAccumulatedPrecipitation_sum_06549": {
+        "mean": 1.4456438647285625,
+        "std": 2.7607053591128254
+    },
+    "pressure_06549": {
+        "mean": 992.8782043175681,
+        "std": 8.542086109073946
+    },
+    "accumulate_3_days_shift_10_days_relativeHumidity_sum_06549": {
+        "mean": 84.75337925327895,
+        "std": 9.56274689981059
+    },
+    "airTemperature_min_06549": {
+        "mean": -5.722004077829538,
+        "std": 17.010951411736222
+    },
+    "shift_10_days_water_flow_06549": {
+        "mean": 4.104921174360445,
+        "std": 6.15914511006954
+    },
+    "airTemperature_max_06549": {
+        "mean": 5.596555971679477,
+        "std": 16.774148419860584
+    },
+    "accumulate_7_days_shift_10_days_relativeHumidity_sum_06549": {
+        "mean": 84.75367082340563,
+        "std": 8.440361177508281
+    },
+    "shift_1_days_airTemperature_min_06549": {
+        "mean": -5.7218660789193985,
+        "std": 17.010767916661507
+    },
+    "cos_day_of_year_06549": {
+        "mean": 0.0007551038151298736,
+        "std": 0.7074065697431191
+    },
+    "totalAccumulatedPrecipitation_06549": {
+        "mean": 1.445922265201198,
+        "std": 3.9166130078194423
+    },
+    "shift_10_days_pressure_06549": {
+        "mean": 992.8798025881522,
+        "std": 8.542453978659847
+    },
+    "shift_10_days_windSpeed_06549": {
+        "mean": 3.5666133952169954,
+        "std": 1.5137035876440332
+    },
+    "sin_day_of_year_06549": {
+        "mean": 1.2999796964732181e-05,
+        "std": 0.7068732457490379
+    },
+    "shift_10_days_cos_day_of_year_06549": {
+        "mean": 0.0007578282578659677,
+        "std": 0.707410405689005
+    },
+    "shift_1_days_airTemperature_max_06549": {
+        "mean": 5.597244990170456,
+        "std": 16.773099180167772
+    },
+    "relativeHumidity_06549": {
+        "mean": 84.74739278164012,
+        "std": 11.172750969981463
+    },
+    "accumulate_7_days_relativeHumidity_sum_06549": {
+        "mean": 84.74912519666681,
+        "std": 8.443190073768594
+    },
+    "shift_1_days_windDirection_06549": {
+        "mean": 166.42238658918822,
+        "std": 83.27153061572653
+    },
+    "shift_1_days_relativeHumidity_06549": {
+        "mean": 84.74825461639173,
+        "std": 11.172194704471222
+    },
+    "shift_30_days_water_flow_06549": {
+        "mean": 4.104101765316739,
+        "std": 6.159573164770261
+    },
+    "shift_10_days_airTemperature_max_06549": {
+        "mean": 5.603160285049412,
+        "std": 16.764086850843547
+    },
+    "shift_10_days_relativeHumidity_06549": {
+        "mean": 84.75338699879437,
+        "std": 11.168970125114912
+    },
+    "windDirection_06549": {
+        "mean": 166.42928803621132,
+        "std": 83.28065823018636
+    },
+    "shift_10_days_airTemperature_min_06549": {
+        "mean": -5.718587042316908,
+        "std": 17.005933497154018
+    },
+    "shift_10_days_windDirection_06549": {
+        "mean": 166.470691655766,
+        "std": 83.24223441738071
+    },
+    "shift_20_days_water_flow_06549": {
+        "mean": 4.10452091003495,
+        "std": 6.1593545593943855
+    },
+    "accumulate_3_days_relativeHumidity_sum_06549": {
+        "mean": 84.74807658464965,
+        "std": 9.565898406341768
+    },
+    "accumulate_7_days_shift_10_days_totalAccumulatedPrecipitation_sum_06549": {
+        "mean": 1.445643864728694,
+        "std": 2.12340001708973
+    },
+    "shift_1_days_pressure_06549": {
+        "mean": 992.8792775494759,
+        "std": 8.542648257936527
+    },
+    "demodule_diff_06549": {
+        "mean": 207.82079966844327,
+        "std": 36.512349872884705
+    },
+    "shift_10_days_totalAccumulatedPrecipitation_06549": {
+        "mean": 1.4456438647286913,
+        "std": 3.916677256555737
+    },
+    "shift_10_days_soilTemperature_06549": {
+        "mean": -0.04759940464562728,
+        "std": 19.55658764273373
+    },
+    "perc_days_06549": {
+        "mean": 1.7557821202681017,
+        "std": 3.3511339834724656
+    },
+    "shift_10_days_maximumWindGustSpeed_06549": {
+        "mean": 7.173375604627139,
+        "std": 2.8654034300716726
+    },
+    "shift_1_days_totalAccumulatedPrecipitation_06549": {
+        "mean": 1.4458966776726339,
+        "std": 3.916621569463255
+    },
+    "accumulate_7_days_totalAccumulatedPrecipitation_sum_06549": {
+        "mean": 1.4457495704477006,
+        "std": 2.123336243871128
+    },
+    "windSpeed_06549": {
+        "mean": 3.56755776915373,
+        "std": 1.5134234663748027
+    },
+    "accumulate_3_days_totalAccumulatedPrecipitation_sum_06549": {
+        "mean": 1.4458661183488712,
+        "std": 2.760618248281059
+    },
+    "accumulate_45_days_relativeHumidity_sum_06549": {
+        "mean": 84.75310903478099,
+        "std": 6.81571932420968
+    },
+    "accumulate_45_days_totalAccumulatedPrecipitation_sum_06549": {
+        "mean": 1.4453798278201633,
+        "std": 1.4949333146047177
+    },
+    "shift_1_days_windSpeed_06549": {
+        "mean": 3.567460646466267,
+        "std": 1.513491052988424
+    }
+}
