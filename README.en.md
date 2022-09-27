@@ -1,3 +1,5 @@
+1st place in AIJ-2020 https://github.com/ai-forever/no_flood_with_ai_aij2020
+
 # Model for forecasting the water level of Amur River (AIJ-2020)
 <p align="center">
   <img src="pics/NN - прогноз на 5 лет.png" width="100%">
@@ -52,31 +54,31 @@ amurlevel_model/config.py - model settings. The most important parameters are de
 * NUMBER_OF_INFERENCE_STATIONS - number of stations (first NUMBER_OF_INFERENCE_STATIONS from ALL_STATIONS) which will be used for predicting.
 
 ### Inference
-Make sure that you set `DATASETS_PATH='/data'` in amurlevel_model/config.py
-Затем нужно собрать докер образ для обучения и запустить с нужными параметрами
+Make sure you set `DATASETS_PATH='/data'` in `amurlevel_model/config.py`
+Then you must build docker image and run it with parameters
 ```
 docker build . -f Dockerfile_predict -t raev_aij2020_amur_predict
 docker run -v $(pwd)/data:/data raev_aij2020_amur_predict -f_day 2017-12-10 -w /data/weights-aij2020amurlevel-2017.h5
 ```
 
 ### Обучение
-Для обучения вначале надо убедиться, что в файле config.py - DATASETS_PATH='/data'
-Затем нужно собрать докер образ для обучения и запустить с нужными параметрами. Веса модели, приложенные в репозитории, получены с GPU на Kaggle. Локально (Interl Core I5-8265U, 4 cores, 8 гб RAM) тоже запускал, но обучение идет гораздо медленнее.
+Make sure you set `DATASETS_PATH='/data'` in `amurlevel_model/config.py`
+Then you must build docker image and run it with parameters. Model weights in this repository obtained on Kaggle GPU. The training process locally on CPU is going much slower (Intel Core I5-8265U, 4 cores, 8 GB RAM).
 ```
 docker build . -f Dockerfile_train -t raev_aij2020_amur_train
 docker run -v $(pwd)/data:/data raev_aij2020_amur_train -t_day 2017-12-01 -w /data/weights-aij2020amurlevel-2017.h5
 ```
 
-### Ноутбук
-Ноутбук (EDA.ipynb) содержит в себе некоторые исследования + обучение моделей и построение графиков. Чтобы его запустить нужно вначале положить все необходимые данные в data/. Если хочется обучить модель в ноутбуке, нужно в первой ячейке поставить ```TRAIN=True```
+### Jupyter notebook
+EDA.ipynb consists of some research + code for model training and some plots. Make sure that you downloaded all necessary data and put it in `data/` directory before launch it cell by cell. If you want to train model you should set ```TRAIN=True``` in first cell.
 
-**ВАЖНО! Если обучать модель в ноутбуке локально, то зависимости могут не совпадать с теми, что в requirements.txt**. Если необходим инференс обученной модели через докер контейнер, то в первой ячейке в ноутбуке нужно вставить:
+If you want to work in jupyter notebook with the same versions of the libraries as in docker containers, you should install from requirements.txt:
 ```
 !pip install requirements.txt
 ```
 
-### Cписок полезной литературы
-При подготовке был изучен достаточно большой объем литературы, ниже приведены ссылки на самые полезные (по мнению автора) источники (ссылки приведены в свободном формате):
+### Reference list
+A fairly large amount of literature was proposed in preparation, below are links to the most useful (according to the author) sources (links are presented in a free format):
 <ol>
 <li> Спектральный анализ временных рядов в экономике [Текст] / К. Гренджер, М. Хатанака ; Пер. В. С. Дуженко, Е. Г. Угер ; Науч. ред. В. В. Налимов. - Москва : Статистика, 1972. - 312 с. : черт.; 22 см.</li>
 <li> С.В. Борщ, Ю.А. Симонов, А.В. Христофоров, Н.М. Юмина. КРАТКОСРОЧНОЕ ПРОГНОЗИРОВАНИЕ УРОВНЕЙ ВОДЫ НА РЕКЕ АМУР</li>
