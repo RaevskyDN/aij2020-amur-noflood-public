@@ -1,3 +1,5 @@
+The English version of this document is [here](https://github.com/RaevskyDN/aij2020-amur-noflood-public/main/README.en.md)
+
 # Модель для прогнозирования уровня воды на реке Амур (AIJ-2020)
 <p align="center">
   <img src="pics/NN - прогноз на 5 лет.png" width="100%">
