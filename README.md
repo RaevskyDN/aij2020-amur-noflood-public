@@ -1,4 +1,4 @@
-The English version of this document is [here](https://github.com/RaevskyDN/aij2020-amur-noflood-public/main/blob/README.en.md)
+The English version of this document is [here](https://github.com/RaevskyDN/aij2020-amur-noflood-public/blob/main/README.en.md)
 
 # Модель для прогнозирования уровня воды на реке Амур (AIJ-2020)
 <p align="center">
