@@ -1,24 +1,24 @@
-# Модель для прогнозирования уровня воды на реке Амур (AIJ-2020)
+# Model for forecasting the water level of Amur River (AIJ-2020)
 <p align="center">
   <img src="pics/NN - прогноз на 5 лет.png" width="100%">
 </p>
 
-Репозиторий включает в себя:
-* EDA.ipynb - ноутбук с илсследованием и комментариями
-* amurlevel_model - модуль с логически разделенными подмодулями 
-* predict.py - скрипт для прогнозирования уровня воды вперед на 10 суток
-* train.py - скрипт для обучения модели по прогнозированию уровня воды вперед на 10 суток
-* Dockerfile_train - докерфайл для создания образа для обучения модели
-* Dockerfile_predict - докерфайл для создания образа для инференса модели
-* data - директория с необходимыми входными данными, а также дополнительными данными, необходимыми для работы модели (например, веса модели)
-* data/mean_std_stats.json - статистика с mean,std по всем численным признакам (мне так удобнее, чем с обертками sklearn)
-* data/weights-aij2020amurlevel-2017.h5 - веса модели, полученные при обучении на данных до 2017-12-31
-* data/weights-aij2020amurlevel-2012.h5 - веса модели, полученные при обучении на данных до 2012-12-3
-* abstracts.pdf - краткая презентация по используемому подходу к решению задачи
+Repository structure:
+* EDA.ipynb - jupyter notebook with data research and comments
+* amurlevel_model - main model of repository
+* predict.py - script for 10-days forecasting the water level
+* train.py - script for model training for 10-days forecasting the water level
+* Dockerfile_train - Dockerfile for training
+* Dockerfile_predict - Dockerfile for inference
+* data - directory with necessary data for traning and additional data needed for model, а также дополнительными данными, необходимыми для работы модели (model weights)
+* data/mean_std_stats.json - Calculated stats with mean,std for numerical features
+* data/weights-aij2020amurlevel-2017.h5 - model weights obtained with all available data till 2017-12-31
+* data/weights-aij2020amurlevel-2012.h5 - model weights obtained with all available data till 2012-12-03
+* abstracts.pdf - short presentation of model (russian)
 
-### Структура данных
-Данные должны включать в себя исторические данные с гидропостов и гидростанций, данные метео в формате АИСОРИ. Данные по снежному покрову и льду (_ice.csv) или по суточному расходу воды (_disch_d.csv) не обязательны, если по какой-либо гидростанции их нет, то данные будут пропущены, при чтении будет выведено предупреждение что этого файла нет. В каждом файле должна быть история за весь период.
-**ВАЖНО! Исходные должны быть в точно таком же формате, как и исходные данные от организаторов (такое же количество полей в таком же порядке), несколько примеров приложены в репозитории. Данные можно скачать [тут](https://storage.yandexcloud.net/datasouls-ods/materials/c8b9bab3/datasets.zip)**
+### Data repository structure
+Data consists of all historical data from hydroposts and hydrostations and meteo data in AISORI format. Data with snow cover and ice (_ice.csv) or data with daily discharge (_disch_d.csv) are not required - if there is no data for some hydrostation, this data will be skipped.
+**WARNING! The input must be in exactly the same format as the original data from the organizers (the same number of fields in the same order), several examples are attached in the repository. You can download data [here](https://storage.yandexcloud.net/datasouls-ods/materials/c8b9bab3/datasets.zip)**
 ```
 data/
 ---hydro/
@@ -35,24 +35,24 @@ data/
 ---...
 ```
 
-### Модели с прогнозом погоды
-В текущей версии используются два сервиса, предсказывающих погоду:
+### Weather forecasting models
+There are two weather forecasting services:
 <ol>
-  <li> Яндекс.погода (7 дней вперед, 5000 запросов/сутки, бесплатно первые 30 дней) - https://yandex.ru/dev/weather/doc/dg/concepts/pricing.html/ </li>
-  <li> Openweather (16 дней вперед, 5000 запросов/месяц, 10$/месяц) - https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6042e4b051a76d241b79 </li>
+  <li> Yandex.weather (7 daus forecasting, 5000 requests/day, 30 days free trial) - https://yandex.ru/dev/weather/doc/dg/concepts/pricing.html/ </li>
+  <li> Openweather (16 days forecasting, 5000 requests/month, 10$/month) - https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6042e4b051a76d241b79 </li>
 </ol>
 
-Credentials надо задать в файле конфига config.py. 
+You must set correct credentials in config.py. 
 
-### Конфиг модели
-В модуле amurlevel_model есть файл config.py с важными настройками для работы модели. Ниже описаны самые важные параметры:
-* DATASETS_PATH - путь по которому будут лежать необходимые исходне данные, а так же сохраняться результаты инференса (predict.py)
-* DAYS_FORECAST - количество прогнозируемых дней, сейчас задано 10. Менять можно только с переобучением модели заново
-* ALL_STATIONS - все гидростанции и гидропосты, признаки с которых используются в модели и уровни которых предсказываются
-* NUMBER_OF_INFERENCE_STATIONS - количество станций (первые станции из ALL_STATIONS по порядку), для которых предсказание записывается при вызове скрипта predict.py
+### Model settings
+amurlevel_model/config.py - model settings. The most important parameters are described below:
+* DATASETS_PATH - absolute path with input data
+* DAYS_FORECAST - forecasting period in days (default 10 days)
+* ALL_STATIONS - ID's of all hydrostations and hydroposts which will be used for training
+* NUMBER_OF_INFERENCE_STATIONS - number of stations (first NUMBER_OF_INFERENCE_STATIONS from ALL_STATIONS) which will be used for predicting.
 
-### Инференс
-Для инференса вначале надо убедиться, что в файле config.py - DATASETS_PATH='/data'
+### Inference
+Make sure that you set `DATASETS_PATH='/data'` in amurlevel_model/config.py
 Затем нужно собрать докер образ для обучения и запустить с нужными параметрами
 ```
 docker build . -f Dockerfile_predict -t raev_aij2020_amur_predict
